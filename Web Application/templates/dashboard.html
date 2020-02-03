@@ -1,0 +1,178 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block main %}
+  <div class="content-wrapper">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+          <h1>Dashboard</h1>
+          <p>This is the Dashboard overview of Moldova State University.</p>
+        </div>
+      </div>
+
+      <!-- Dew Point Chart-->
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-area-chart"></i> Dew Point Graph (Realtime)</div>
+        <div class="card-body">
+          <script src ='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js'></script>
+          <div><canvas id="dewpoint_graph" width="800" height="450"></canvas></div>
+          <script>
+        // dewpoint realtime in grafiek. tot twee minuten terug.
+        var ctx = document.getElementById('dewpoint_graph');
+        var data_linechart = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+        linechart = new Chart(ctx,{
+            type: 'line',
+            data: {
+                labels: [120, 115, 110, 105, 100, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10, 5, 0],
+                datasets: [{
+                    data: data_linechart,
+                    label: "Humidity",
+                    backgroundColor: 'rgba(0, 0, 0, 1)',
+                    borderColor: 'rgba(0, 0, 0, 0.8)',
+                    fill: false
+                }]
+            },
+            options: {
+                title:{
+                    display: true,
+                    text: "Relative humidity %"
+                },
+                scales: {
+                      xAxes:[{
+                      scaleLabel:{
+                      display:  true,
+                      labelString: 'History in X seconds earlier.'
+                      }
+                    }],
+                    yAxes:[{
+                        position: 'right',
+                        scaleLabel:{
+                        display : true,
+                        labelString: 'Humidity in %.'
+                    }
+                  }]
+                },
+
+                responsive: false
+            }
+
+         });
+         //functie voor berekening van de relatieve luchtvochtigheid. 
+         function calculateHumidity(tempC, tempDew){
+           var actualVaporPressure = 6.11*10*(7.5*tempC/(237.7+tempC));
+           var saturatedVaporPressure = 6.11*10*(7.5*tempDew/(237.7+tempDew));
+           var humidity = parseInt((actualVaporPressure/saturatedVaporPressure*100));
+
+           return humidity
+         }
+
+        //functie voor het verversen van de grafiek.
+        function refreshData(){
+            setInterval(function(){
+              data_linechart.shift();
+              data_linechart.push(Math.floor(Math.random() * 50) + 50)
+              //data_linechart.push(calculateHumidity('{{py_tempC}}', '{{py_tempDew}}'));
+              linechart.update();
+            }, 5000)
+        }
+
+          refreshData();
+          </script>
+
+        </div>
+          <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+      </div>
+    </div>
+
+    <!-- Air pressure and Stations chart-->
+    <h4>Your stonks</h4>
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-table"></i> Air pressure in different regions</div>
+        <div class="card-body">
+          <form class="form-inline my-2 my-lg-0 mr-lg-2">
+            <div class="input-group">
+              <input type="text" class="form-control" id="searchInput" onkeyup="search()" placeholder="Search for data.." title="Search for data">
+            </div>
+          </form>
+          <br>
+          <div class="table-responsive table-hover">
+            <table class="table table-bordered" id="airPressureTable" width="100%" cellspacing="0">
+              <thead>
+                <tr class="header">
+                  <th>Country</th>
+                  <th>Station Number</th>
+                  <th>Airpressure</th>
+                  <th>Time Updated</th>
+                </tr>
+              </thead>
+                <tbody>
+                    {%for i in range(0, len)%}
+                        <tr>
+                            <td>{{data[i][0]}}</td>
+                            <td>{{data[i][1]}}</td>
+                            <td>{{data[i][2]}}</td>
+                            <td>{{data[i][3]}}</td>
+
+                        {%endfor%}
+                  <tr>
+                    <td> Good morning </td>
+                    <td> My name </td>
+                    <td> is </td>
+                    <td> Tokyo</td>
+                  </tr>
+                  <tr>
+                    <td> Roxanneee </td>
+                    <td> Roxanne </td>
+                    <td> Goddamn </td>
+                    <td> All she wanna do is party all night </td>
+                  </tr>
+                  <tr>
+                    <td> 69 </td>
+                    <td> 420 </td>
+                    <td> 2k2k </td>
+                    <td> 2k19 </td>
+                  </tr>
+                  <tr>
+                    <td> RIP </td>
+                    <td> F </td>
+                    <td> oWo </td>
+                    <td> uWu </td>
+                  </tr>
+                  <tr>
+                    <td> Oui</td>
+                    <td> OUiiii </td>
+                    <td> Non </td>
+                    <td> Ca va </td>
+                  </tr>
+                </tbody>
+              </table>
+          </div>
+        </div>
+      <div class="card-footer small text-muted">Updated today at 16:28 PM</div>
+    </div>
+    </div>
+
+    <footer class="sticky-footer">
+        <div class="container">
+          <div class="text-center">
+            <small>Copyright ©️ Moldova State University</small>
+          </div>
+        </div>
+      </footer>
+
+    <script src="{{ url_for('static', filename='bootstrap_basics/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="{{ url_for('static', filename='bootstrap_basics/bootstrap/js/extra_animation.js') }}"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="{{ url_for('static', filename='js/animation.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/filter.js') }}"></script>
+
+
+{% endblock %}

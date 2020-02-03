@@ -1,0 +1,34 @@
+1-0000000000 : negatief
+0-0000000000 : positief
+
+1-00-000000000 --> x1 (10^0)
+1-01-000000000 --> x10 (10^1)
+1-10-000000000 --> x100 (10^2)
+1-11-000000000 --> x 1000 (10^3)
+
+<STN> 	weerstation nr. 	: 21 bits
+<DATE>	datum			: 21 bits
+<TIME>	tijd			: 17 bits
+<TEMP>  temperatuur		: 14 bits 
+<DEWP>  dewpoint		: 14 bits
+<STP>  	luchtdruk stationsniveau: 18 bits
+<SLP>   luchtdruk zeeniveau	: 18 bits
+<VISIB> zichtbaarheid		: 15 bits
+<WDSP>	windsnelheid		: 15 bits
+<PRCP>	neerslag		: 19 bits
+<SNDP>  sneeuw val		: 18 bits
+<FRSHTT>gebeurtenissen		: 6  bits
+<CLDC>	bewolking		: 11 bits
+<WNDDIR>windrichting 		: 9  bits
+				----------
+				216 bits =  
+				 27 bytes
+|00000000 00000000 0000 0000|00000000 0000|0000|00000|00000|000000|000000
+  weerstation nr.        jaar	     maand  dag  uur  minuut seconde
+|0 00000000 0000 0|0 00000000 0000 0|00000000 00000000 0 0|00000000 00000000 0 0|00000000 000000 0|
+-+    temp       f -+    dewp      f  stp                f   slp               f visibility      f  	 f
+00000000 000000 0|00000000 00000000 0 00|00000000 00000000 0 0|000000|00000000 00 0|00000000 0
+      wdsp      f      neerslag       f   sneeuwval	     f FRSHTT bewolking   f windrichting
+
+
+Prototype - this is a logic model. The real implementation may differ^^

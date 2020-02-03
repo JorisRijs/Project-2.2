@@ -1,0 +1,28 @@
+Omar & Daniel:
+-Back-end Website
+  -Inloggen (Database???)
+  -Grafiek
+  -Tabel (data uit een Python object(Dict, List, Set?))
+    -Kijken welke datastructure het er beste bij past.
+    -De data realtime kunnen updaten in de tabel. (Zelfde voor de grafiek)
+  -Security (Inloggen)
+  -Sessions met User ID
+
+Joris:
+  -Server (Azure) instellen
+  -Uitzoeken Java applicaties op de server draaien
+  -Uit de file share data proberen te halen
+  -Encryptie? Kijken waar bottlenecks of loopholes zijn
+  -File screepen(Na scrapen verplaatsen naar bijbehorende directory)
+  -2 aparte directories/ mappen aanmaken (Eastern Europe + Moldova, en de rest van de wereld (plebs))
+  -average bijhouden op de server en die schrijven naar de plebs directory schrijven
+
+Dylan:
+  -Data outputten naar de mount
+  -Extrapolatie (Data checken)
+  -Elk type data (van het XML bericht) in een binair format zetten
+  -Als de </measurement> tag van de XML is, data naar de mount pushen.
+
+Jordi:
+  -All-round shit.
+  -Het 'managen' van het project, de scrum drum slaan.
