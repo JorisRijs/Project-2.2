@@ -43,13 +43,15 @@ data2 = [1,2]
 
 path = "/etc/DataStore/Website/"
 
-
-filelist = os.listdir(path)
 stations = stnConverter()
-for file in filelist:
-    with open(os.path.join(path + file)) as f:
-#with open('2020-02-02_22_3555.txt', 'r') as f:
-    #[line.replace('\n', '') for line in f]
+
+#THIS 'WITH OPEN' IS FOR READING FROM A DIRECTORY#######################################################
+#filelist = os.listdir(path)
+#for file in filelist:
+   # with open(os.path.join(path + file)) as f:
+
+#THIS 'WITH OPEN' IS FOR TESTDATA!!!!! #############################################################
+with open('2020-02-02_22_35_55.txt', 'r') as f:
 
         for line in f:
             #print(line)
@@ -132,7 +134,7 @@ print(py_tempDew)
 @app.route("/dashboard")
 @login_required
 def dashboard():
-    return render_template("dashboard.html", len = len(data), data=data,py_tempC = py_tempC, py_tempDew = py_tempDew)
+    return render_template("dashboard.html", len = len(data), data=data)
 
 
 

@@ -22,7 +22,6 @@
           <script src ='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js'></script>
           <div><canvas id="dewpoint_graph" width="800" height="450"></canvas></div>
           <script>
-        // dewpoint realtime in grafiek. tot twee minuten terug.
         var ctx = document.getElementById('dewpoint_graph');
         var data_linechart = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 
@@ -44,35 +43,43 @@
                     text: "Relative humidity %"
                 },
                 scales: {
-                      xAxes:[{
-                      scaleLabel:{
+                  xAxes:[{
+                    scaleLabel:{
                       display:  true,
                       labelString: 'History in X seconds earlier.'
-                      }
-                    }],
-                    yAxes:[{
-                        position: 'right',
-                        scaleLabel:{
-                        display : true,
-                        labelString: 'Humidity in %.'
+                    }
+                  }],
+                  yAxes:[{
+                    position: 'right',
+                    scaleLabel:{
+                      display : true,
+                      labelString: 'Humidity in %.'
                     }
                   }]
-                },
-
-                responsive: false
+              },
+              responsive: false
             }
+        });
 
-         });
-         //functie voor berekening van de relatieve luchtvochtigheid. 
-         function calculateHumidity(tempC, tempDew){
-           var actualVaporPressure = 6.11*10*(7.5*tempC/(237.7+tempC));
-           var saturatedVaporPressure = 6.11*10*(7.5*tempDew/(237.7+tempDew));
-           var humidity = parseInt((actualVaporPressure/saturatedVaporPressure*100));
+        function calculateHumidity(tempC, tempDew){
+          var actualVaporPressure = 6.11*10*(7.5*tempC/(237.7+tempC));
+          var saturatedVaporPressure = 6.11*10*(7.5*tempDew/(237.7+tempDew));
+          var humidity = parseInt((actualVaporPressure/saturatedVaporPressure*100));
 
-           return humidity
-         }
+          return humidity
+        }
+
 
         //functie voor het verversen van de grafiek.
+        // function refreshData(){
+        //     setInterval(function(){
+        //       var tempC = {{py_tempC}};
+        //       var tempDew = {{py_tempDew}};
+        //       data_linechart.shift();
+        //       data_linechart.push(calculatedHumidity('{{py_tempC}}','{{py_tempDew}}');
+        //       linechart.update();
+        //     },5000)
+        // }
         function refreshData(){
             setInterval(function(){
               data_linechart.shift();
@@ -82,8 +89,11 @@
             }, 5000)
         }
 
-          refreshData();
+        refreshData();
+//          calculateHumidity({{py_tempC}}, {{py_tempDew}};
+
           </script>
+
 
         </div>
           <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
@@ -91,10 +101,15 @@
     </div>
 
     <!-- Air pressure and Stations chart-->
-    <h4>Your stonks</h4>
+    <h4>Airpressure Eastern Europe</h4>
       <div class="card mb-3">
         <div class="card-header">
-          <i class="fa fa-table"></i> Air pressure in different regions</div>
+          <i class="fa fa-table"></i> Air pressure in different regions
+          <a href="weatherdata" target="blank">
+              <button class= "btn float-right"><i class="fa fa-download"></i> Download</button>
+          </a>
+
+        </div>
         <div class="card-body">
           <form class="form-inline my-2 my-lg-0 mr-lg-2">
             <div class="input-group">
@@ -102,7 +117,7 @@
             </div>
           </form>
           <br>
-          <div class="table-responsive table-hover">
+          <div class="table-responsive">
             <table class="table table-bordered" id="airPressureTable" width="100%" cellspacing="0">
               <thead>
                 <tr class="header">
@@ -115,42 +130,13 @@
                 <tbody>
                     {%for i in range(0, len)%}
                         <tr>
+                            <td>{{data[i][4]}}</td>
                             <td>{{data[i][0]}}</td>
-                            <td>{{data[i][1]}}</td>
                             <td>{{data[i][2]}}</td>
-                            <td>{{data[i][3]}}</td>
+                            <!--<td>{{data[i][3]}}</td>-->
+                        </tr>
+                    {%endfor%}
 
-                        {%endfor%}
-                  <tr>
-                    <td> Good morning </td>
-                    <td> My name </td>
-                    <td> is </td>
-                    <td> Tokyo</td>
-                  </tr>
-                  <tr>
-                    <td> Roxanneee </td>
-                    <td> Roxanne </td>
-                    <td> Goddamn </td>
-                    <td> All she wanna do is party all night </td>
-                  </tr>
-                  <tr>
-                    <td> 69 </td>
-                    <td> 420 </td>
-                    <td> 2k2k </td>
-                    <td> 2k19 </td>
-                  </tr>
-                  <tr>
-                    <td> RIP </td>
-                    <td> F </td>
-                    <td> oWo </td>
-                    <td> uWu </td>
-                  </tr>
-                  <tr>
-                    <td> Oui</td>
-                    <td> OUiiii </td>
-                    <td> Non </td>
-                    <td> Ca va </td>
-                  </tr>
                 </tbody>
               </table>
           </div>
@@ -176,3 +162,4 @@
 
 
 {% endblock %}
+
