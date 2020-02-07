@@ -28,7 +28,8 @@ Session(app)
 #list of data for the table
 data = []
 data2 = [1,2]
-
+values_high = dict()
+values_low = dict()
 # with open("data.txt", 'r') as f:
 #     stations = stnConverter()
 #     #print(stations)
@@ -51,7 +52,7 @@ stations = stnConverter()
    # with open(os.path.join(path + file)) as f:
 
 #THIS 'WITH OPEN' IS FOR TESTDATA!!!!! #############################################################
-with open('2020-02-02_22_35_55.txt', 'r') as f:
+with open('2020-02-03_11_16_23.txt', 'r') as f:
 
         for line in f:
             #print(line)
@@ -92,6 +93,7 @@ with open('2020-02-02_22_35_55.txt', 'r') as f:
                     #print(temp_sequence[0])
                     #print(station)
                 if temp_STN == station:
+                    
                     #print("found station", name)
                     #print(item + name)
                     item = name
