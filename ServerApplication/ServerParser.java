@@ -8,19 +8,28 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Objects;
 
+/**
+ * This class parses incoming files sent by the pi/
+ *
+ */
 public class ServerParser {
 
-    private String location4 = "/etc/DataStore/General/";
-    private String web_site_dir = "/etc/DataStore/Website/";
-    private File folder = new File("/etc/DataStore/General/");
-    private File folder2 = new File("/etc/DataStore/General/");
-    private String dest_dir = "/etc/DataStore/Other/";
-    private String src_dir = "/etc/DataStore/General/";
+    // Directories to be used in application
+    private final String test_location = "/etc/DataStore/General/";
+    private final String web_site_dir = "/etc/DataStore/Website/";
+    private final File folder = new File("/etc/DataStore/General/");
+    private final File folder2 = new File("/etc/DataStore/General/");
+    private final String dest_dir = "/etc/DataStore/Other/";
+    private final String src_dir = "/etc/DataStore/General/";
 
     private Comparator comparator;
 
-    public ServerParser(){
-        comparator = new Comparator();
+    /**
+     * Constructor method for the ServerParser Class, used to assign a Comparator class/
+     * @param comparator
+     */
+    public ServerParser(Comparator comparator){
+        this.comparator = comparator;
     }
 
     public void run(){
