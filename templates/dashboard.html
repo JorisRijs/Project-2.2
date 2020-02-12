@@ -1,0 +1,181 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+  <div class="content-wrapper">
+    <div class="container-fluid">
+
+      <!-- Dew Point Chart-->
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-area-chart"></i> Dew Point Graph (Realtime)</div>
+        <div class="card-body">
+          <script src ='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js'></script>
+          <div><canvas id="dewpoint_graph" width="800" height="450"></canvas></div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>
+        var ctx = document.getElementById('dewpoint_graph');
+        ctx.height = 400;
+        var data_linechart = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+        var data_linechart1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+        var data_linechart2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+        var counter = 0;
+
+        linechart = new Chart(ctx,{
+            type: 'line',
+            data: {
+                labels: [120, 119, 118, 117, 116, 115, 114, 113, 112, 111, 110, 109, 108, 107, 106, 105, 104, 103, 102, 101, 100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1] ,
+                datasets: [{
+                    data: data_linechart,
+                    label: "Humidity: Bel`cy",
+                    backgroundColor: 'rgba(240, 0, 0, 1)',
+                    borderColor: 'rgba(240, 0, 0, 1)',
+                    fill: false
+                }, {
+                  data: data_linechart1,
+                  label: "Humidity: Kisinev",
+                  backgroundColor: 'rgba(0, 0, 0, 1)',
+                  borderColor: 'rgba(0, 0, 0, 0.8)',
+                  fill: false
+                }, {
+                  data: data_linechart2,
+                  label: "Humidity: Komrat",
+                  backgroundColor: 'rgba(16, 56, 188, 1)',
+                  borderColor: 'rgba(16, 56, 188, 1)',
+                  fill: false
+                }]
+            },
+            options: {
+                title:{
+                    display: true,
+                    text: "Relative humidity %"
+                },
+                scales: {
+                  xAxes:[{
+                    scaleLabel:{
+                      display:  true,
+                      labelString: 'History of the humidity, historical data up to 120 seconds.',
+                      ticks: {
+                        max: 60
+                      }
+                    }
+                  }],
+                  yAxes:[{
+                    position: 'right',
+                    scaleLabel:{
+                      display : true,
+                      labelString: 'Humidity in %.'
+                    }
+                  }]
+              },
+              responsive: true,
+              maintainAspectRatio: false
+            }
+        });
+
+        function calculateHumidity(tempC, tempDew){
+          tempCel = Math.abs(tempC)
+          tempDewp = Math.abs(tempDew)
+          if(tempCel != 0 || tempDewp != 0){
+            var actualVaporPressure = 6.11 * 10 * ((7.5*tempCel/(237.7+tempCel)));
+            var saturatedVaporPressure = 6.11*10*((7.5*tempDewp)/(237.7+tempDewp));
+
+            var humidity = 0;
+            if(tempC < 0 || tempDew < 0){
+              humidity = parseInt(((saturatedVaporPressure/actualVaporPressure)*100));
+            }
+            else{
+              humidity = parseInt(((actualVaporPressure/saturatedVaporPressure)*100));
+            }
+            return humidity
+          }
+          return 0
+        }
+
+        function fetchdata(){
+        var a = 0;
+        var b = 0;
+         $.ajax(
+            $.getJSON('/dashboard_data', function(data){
+
+              for(var i = 0; i < 3; i++){
+              var temperature = data['moldova' + counter][i].temp;
+              var dewp = data['moldova' + counter][i].dewp;
+              var station_nr = data['moldova' + counter][i].station_nr;
+
+              if(station_nr == 337450){
+                data_linechart.shift();
+                data_linechart.push(calculateHumidity(temperature, dewp));
+              }
+              else if(station_nr == 338150){
+                data_linechart1.shift();
+                data_linechart1.push(calculateHumidity(temperature, dewp));
+              }
+              else{
+                data_linechart2.shift();
+                data_linechart2.push(calculateHumidity(temperature, dewp));
+              }
+            }
+            linechart.update();
+            }
+          ));
+        }
+
+        $(document).ready(function(){
+         setInterval(fetchdata,1000);
+        });
+      </script>
+        </div>
+          <div class="card-footer small text-muted">Updated today at {{ date_moldova }}</div>
+      </div>
+
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-table"></i> Air pressure in different regions (Measured in hPa (Hectopascals))
+          <a href="weatherdata" target="blank">
+              <button class= "btn float-right"><i class="fa fa-download"></i> Download</button>
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+              <thead>
+                <tr class="header">
+                  <th>Station Number</th>
+                  <th>Country</th>
+                  <th>Region</th>
+                  <th>Airpressure (in hPa)</th>
+                  <th>Date Updated</th>
+                </tr>
+              </thead>
+              <tfoot>
+                <tr>
+                  <th>Station Number</th>
+                  <th>Country</th>
+                  <th>Region</th>
+                  <th>Airpressure (in hPa)</th>
+                  <th>Time Updated</th>
+                </tr>
+              </tfoot>
+              <tbody>
+                {%for key, value in stations.items() %}
+                  <tr>
+                      <td>{{key}}</td>
+                      <td>{{value[0]}}</td>
+                      <td>{{value[1]}}</td>
+                      <td>{{value[2]}}</td>
+                      <td>{{ date_EEU}}</td>
+                  </tr>
+                  {%endfor%}
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card-footer small text-muted">Updated today at {{ date_EEU }}</div>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}
+
