@@ -1,12 +1,12 @@
 package ServerApplication;
 
-/**
- * Main class that is used to run the server application
- */
 public class Main {
+
+    /**
+     * Main class that is used to run the server application
+     */
     public static void main(String[] args){
-        Comparator comparator = new Comparator();
-        ServerParser parser = new ServerParser(comparator);
+        ServerApplication parser = new ServerApplication();
         parser.run();
     }
 }
