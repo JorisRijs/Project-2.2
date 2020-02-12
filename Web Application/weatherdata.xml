@@ -1,2882 +1,3061 @@
 <root>
   <Weatherdata>
-    <StationId>1</StationId>
-    <Country>1</Country>
-    <Air_Pressure>1</Air_Pressure>
-    <Time_Updated>1</Time_Updated>
+    <StationId>150040</StationId>
+    <Country>Romania</Country>
+    <Region>Sighetul Marmatiei</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>2</StationId>
-    <Country>2</Country>
-    <Air_Pressure>2</Air_Pressure>
-    <Time_Updated>2</Time_Updated>
+    <StationId>150100</StationId>
+    <Country>Romania</Country>
+    <Region>Satu Mare</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>3</StationId>
-    <Country>3</Country>
-    <Air_Pressure>3</Air_Pressure>
-    <Time_Updated>3</Time_Updated>
+    <StationId>150140</StationId>
+    <Country>Romania</Country>
+    <Region>Baia Mare</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>4</StationId>
-    <Country>4</Country>
-    <Air_Pressure>4</Air_Pressure>
-    <Time_Updated>4</Time_Updated>
+    <StationId>150150</StationId>
+    <Country>Romania</Country>
+    <Region>Ocna Sugatag</Region>
+    <Air_Pressure>959.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>5</StationId>
-    <Country>5</Country>
-    <Air_Pressure>5</Air_Pressure>
-    <Time_Updated>5</Time_Updated>
+    <StationId>150200</StationId>
+    <Country>Romania</Country>
+    <Region>Botosani</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>6</StationId>
-    <Country>6</Country>
-    <Air_Pressure>6</Air_Pressure>
-    <Time_Updated>6</Time_Updated>
+    <StationId>150230</StationId>
+    <Country>Romania</Country>
+    <Region>Suceava</Region>
+    <Air_Pressure>989.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>7</StationId>
-    <Country>7</Country>
-    <Air_Pressure>7</Air_Pressure>
-    <Time_Updated>7</Time_Updated>
+    <StationId>150800</StationId>
+    <Country>Romania</Country>
+    <Region>Oradea</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>8</StationId>
-    <Country>8</Country>
-    <Air_Pressure>8</Air_Pressure>
-    <Time_Updated>8</Time_Updated>
+    <StationId>150900</StationId>
+    <Country>Romania</Country>
+    <Region>Iasi</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>9</StationId>
-    <Country>9</Country>
-    <Air_Pressure>9</Air_Pressure>
-    <Time_Updated>9</Time_Updated>
+    <StationId>151080</StationId>
+    <Country>Romania</Country>
+    <Region>Ceahlau Toaca</Region>
+    <Air_Pressure>883.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>10</StationId>
-    <Country>10</Country>
-    <Air_Pressure>10</Air_Pressure>
-    <Time_Updated>10</Time_Updated>
+    <StationId>151200</StationId>
+    <Country>Romania</Country>
+    <Region>Cluj-Napoca</Region>
+    <Air_Pressure>991.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>11</StationId>
-    <Country>11</Country>
-    <Air_Pressure>11</Air_Pressure>
-    <Time_Updated>11</Time_Updated>
+    <StationId>151450</StationId>
+    <Country>Romania</Country>
+    <Region>Tg. Mures</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>12</StationId>
-    <Country>12</Country>
-    <Air_Pressure>12</Air_Pressure>
-    <Time_Updated>12</Time_Updated>
+    <StationId>151500</StationId>
+    <Country>Romania</Country>
+    <Region>Bacau</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>13</StationId>
-    <Country>13</Country>
-    <Air_Pressure>13</Air_Pressure>
-    <Time_Updated>13</Time_Updated>
+    <StationId>151700</StationId>
+    <Country>Romania</Country>
+    <Region>Miercurea Ciuc</Region>
+    <Air_Pressure>955.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>14</StationId>
-    <Country>14</Country>
-    <Air_Pressure>14</Air_Pressure>
-    <Time_Updated>14</Time_Updated>
+    <StationId>151970</StationId>
+    <Country>Romania</Country>
+    <Region>Barlad</Region>
+    <Air_Pressure>993.8</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>15</StationId>
-    <Country>15</Country>
-    <Air_Pressure>15</Air_Pressure>
-    <Time_Updated>15</Time_Updated>
+    <StationId>152000</StationId>
+    <Country>Romania</Country>
+    <Region>Arad</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>16</StationId>
-    <Country>16</Country>
-    <Air_Pressure>16</Air_Pressure>
-    <Time_Updated>16</Time_Updated>
+    <StationId>152005</StationId>
+    <Country>Romania</Country>
+    <Region>Arad</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>17</StationId>
-    <Country>17</Country>
-    <Air_Pressure>17</Air_Pressure>
-    <Time_Updated>17</Time_Updated>
+    <StationId>152300</StationId>
+    <Country>Romania</Country>
+    <Region>Deva</Region>
+    <Air_Pressure>992.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>18</StationId>
-    <Country>18</Country>
-    <Air_Pressure>18</Air_Pressure>
-    <Time_Updated>18</Time_Updated>
+    <StationId>152470</StationId>
+    <Country>Romania</Country>
+    <Region>Timisoara</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>19</StationId>
-    <Country>19</Country>
-    <Air_Pressure>19</Air_Pressure>
-    <Time_Updated>19</Time_Updated>
+    <StationId>152600</StationId>
+    <Country>Romania</Country>
+    <Region>Sibiu</Region>
+    <Air_Pressure>967.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>20</StationId>
-    <Country>20</Country>
-    <Air_Pressure>20</Air_Pressure>
-    <Time_Updated>20</Time_Updated>
+    <StationId>152800</StationId>
+    <Country>Romania</Country>
+    <Region>Varfu Omu</Region>
+    <Air_Pressure>895.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>21</StationId>
-    <Country>21</Country>
-    <Air_Pressure>21</Air_Pressure>
-    <Time_Updated>21</Time_Updated>
+    <StationId>152920</StationId>
+    <Country>Romania</Country>
+    <Region>Caransebes</Region>
+    <Air_Pressure>992.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>22</StationId>
-    <Country>22</Country>
-    <Air_Pressure>22</Air_Pressure>
-    <Time_Updated>22</Time_Updated>
+    <StationId>153100</StationId>
+    <Country>Romania</Country>
+    <Region>Galati</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>23</StationId>
-    <Country>23</Country>
-    <Air_Pressure>23</Air_Pressure>
-    <Time_Updated>23</Time_Updated>
+    <StationId>153350</StationId>
+    <Country>Romania</Country>
+    <Region>Tulcea</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>24</StationId>
-    <Country>24</Country>
-    <Air_Pressure>24</Air_Pressure>
-    <Time_Updated>24</Time_Updated>
+    <StationId>153380</StationId>
+    <Country>Romania</Country>
+    <Region>Oravita</Region>
+    <Air_Pressure>989.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>25</StationId>
-    <Country>25</Country>
-    <Air_Pressure>25</Air_Pressure>
-    <Time_Updated>25</Time_Updated>
+    <StationId>153460</StationId>
+    <Country>Romania</Country>
+    <Region>Rimnicu Valcea</Region>
+    <Air_Pressure>992.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>26</StationId>
-    <Country>26</Country>
-    <Air_Pressure>26</Air_Pressure>
-    <Time_Updated>26</Time_Updated>
+    <StationId>153500</StationId>
+    <Country>Romania</Country>
+    <Region>Buzau</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>27</StationId>
-    <Country>27</Country>
-    <Air_Pressure>27</Air_Pressure>
-    <Time_Updated>27</Time_Updated>
+    <StationId>153600</StationId>
+    <Country>Romania</Country>
+    <Region>Sulina</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>28</StationId>
-    <Country>28</Country>
-    <Air_Pressure>28</Air_Pressure>
-    <Time_Updated>28</Time_Updated>
+    <StationId>153730</StationId>
+    <Country>Romania</Country>
+    <Region>Pitesti</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>29</StationId>
-    <Country>29</Country>
-    <Air_Pressure>29</Air_Pressure>
-    <Time_Updated>29</Time_Updated>
+    <StationId>153770</StationId>
+    <Country>Romania</Country>
+    <Region>Ploiesti</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>30</StationId>
-    <Country>30</Country>
-    <Air_Pressure>30</Air_Pressure>
-    <Time_Updated>30</Time_Updated>
+    <StationId>153880</StationId>
+    <Country>Romania</Country>
+    <Region>Moldova Veche</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>31</StationId>
-    <Country>31</Country>
-    <Air_Pressure>31</Air_Pressure>
-    <Time_Updated>31</Time_Updated>
+    <StationId>154050</StationId>
+    <Country>Romania</Country>
+    <Region>Grivita</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>32</StationId>
-    <Country>32</Country>
-    <Air_Pressure>32</Air_Pressure>
-    <Time_Updated>32</Time_Updated>
+    <StationId>154090</StationId>
+    <Country>Romania</Country>
+    <Region>Jurilovca</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>33</StationId>
-    <Country>33</Country>
-    <Air_Pressure>33</Air_Pressure>
-    <Time_Updated>33</Time_Updated>
+    <StationId>154100</StationId>
+    <Country>Romania</Country>
+    <Region>Drobeta Turnu Sever</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>34</StationId>
-    <Country>34</Country>
-    <Air_Pressure>34</Air_Pressure>
-    <Time_Updated>34</Time_Updated>
+    <StationId>154200</StationId>
+    <Country>Romania</Country>
+    <Region>Bucuresti Inmh-Bane</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>35</StationId>
-    <Country>35</Country>
-    <Air_Pressure>35</Air_Pressure>
-    <Time_Updated>35</Time_Updated>
+    <StationId>154210</StationId>
+    <Country>Romania</Country>
+    <Region>Bucuresti Afumati</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>36</StationId>
-    <Country>36</Country>
-    <Air_Pressure>36</Air_Pressure>
-    <Time_Updated>36</Time_Updated>
+    <StationId>154215</StationId>
+    <Country>Romania</Country>
+    <Region>Campia Turzii</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>37</StationId>
-    <Country>37</Country>
-    <Air_Pressure>37</Air_Pressure>
-    <Time_Updated>37</Time_Updated>
+    <StationId>154440</StationId>
+    <Country>Romania</Country>
+    <Region>Fetesti</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>38</StationId>
-    <Country>38</Country>
-    <Air_Pressure>38</Air_Pressure>
-    <Time_Updated>38</Time_Updated>
+    <StationId>154500</StationId>
+    <Country>Romania</Country>
+    <Region>Craiova</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>39</StationId>
-    <Country>39</Country>
-    <Air_Pressure>39</Air_Pressure>
-    <Time_Updated>39</Time_Updated>
+    <StationId>154600</StationId>
+    <Country>Romania</Country>
+    <Region>Calarasi</Region>
+    <Air_Pressure>1023.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>40</StationId>
-    <Country>40</Country>
-    <Air_Pressure>40</Air_Pressure>
-    <Time_Updated>40</Time_Updated>
+    <StationId>154700</StationId>
+    <Country>Romania</Country>
+    <Region>Rosiori De Vede</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>41</StationId>
-    <Country>41</Country>
-    <Air_Pressure>41</Air_Pressure>
-    <Time_Updated>41</Time_Updated>
+    <StationId>154800</StationId>
+    <Country>Romania</Country>
+    <Region>Constanta</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>42</StationId>
-    <Country>42</Country>
-    <Air_Pressure>42</Air_Pressure>
-    <Time_Updated>42</Time_Updated>
+    <StationId>154810</StationId>
+    <Country>Romania</Country>
+    <Region>Kogalniceanu</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>43</StationId>
-    <Country>43</Country>
-    <Air_Pressure>43</Air_Pressure>
-    <Time_Updated>43</Time_Updated>
+    <StationId>154900</StationId>
+    <Country>Romania</Country>
+    <Region>Tr. Magurele</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>44</StationId>
-    <Country>44</Country>
-    <Air_Pressure>44</Air_Pressure>
-    <Time_Updated>44</Time_Updated>
+    <StationId>154990</StationId>
+    <Country>Romania</Country>
+    <Region>Mangalia</Region>
+    <Air_Pressure>1017.4</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>45</StationId>
-    <Country>45</Country>
-    <Air_Pressure>45</Air_Pressure>
-    <Time_Updated>45</Time_Updated>
+    <StationId>203530</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Zelanija</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>46</StationId>
-    <Country>46</Country>
-    <Air_Pressure>46</Air_Pressure>
-    <Time_Updated>46</Time_Updated>
+    <StationId>203570</StationId>
+    <Country>Russia</Country>
+    <Region>Russkaya Gavan`</Region>
+    <Air_Pressure>1040.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>47</StationId>
-    <Country>47</Country>
-    <Air_Pressure>47</Air_Pressure>
-    <Time_Updated>47</Time_Updated>
+    <StationId>207440</StationId>
+    <Country>Russia</Country>
+    <Region>Malye Karmakuly</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>48</StationId>
-    <Country>48</Country>
-    <Air_Pressure>48</Air_Pressure>
-    <Time_Updated>48</Time_Updated>
+    <StationId>208560</StationId>
+    <Country>Russia</Country>
+    <Region>Cape Kharasovoy</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>49</StationId>
-    <Country>49</Country>
-    <Air_Pressure>49</Air_Pressure>
-    <Time_Updated>49</Time_Updated>
+    <StationId>208640</StationId>
+    <Country>Russia</Country>
+    <Region>Tambey</Region>
+    <Air_Pressure>1021.2</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>50</StationId>
-    <Country>50</Country>
-    <Air_Pressure>50</Air_Pressure>
-    <Time_Updated>50</Time_Updated>
+    <StationId>209460</StationId>
+    <Country>Russia</Country>
+    <Region>Cape Bolvanskij</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>51</StationId>
-    <Country>51</Country>
-    <Air_Pressure>51</Air_Pressure>
-    <Time_Updated>51</Time_Updated>
+    <StationId>209670</StationId>
+    <Country>Russia</Country>
+    <Region>Sejaha</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>52</StationId>
-    <Country>52</Country>
-    <Air_Pressure>52</Air_Pressure>
-    <Time_Updated>52</Time_Updated>
+    <StationId>220280</StationId>
+    <Country>Russia</Country>
+    <Region>Teriberka</Region>
+    <Air_Pressure>962.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>53</StationId>
-    <Country>53</Country>
-    <Air_Pressure>53</Air_Pressure>
-    <Time_Updated>53</Time_Updated>
+    <StationId>221060</StationId>
+    <Country>Russia</Country>
+    <Region>Padun</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>54</StationId>
-    <Country>54</Country>
-    <Air_Pressure>54</Air_Pressure>
-    <Time_Updated>54</Time_Updated>
+    <StationId>221130</StationId>
+    <Country>Russia</Country>
+    <Region>Murmansk</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>55</StationId>
-    <Country>55</Country>
-    <Air_Pressure>55</Air_Pressure>
-    <Time_Updated>55</Time_Updated>
+    <StationId>221270</StationId>
+    <Country>Russia</Country>
+    <Region>Lovozero</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>56</StationId>
-    <Country>56</Country>
-    <Air_Pressure>56</Air_Pressure>
-    <Time_Updated>56</Time_Updated>
+    <StationId>222170</StationId>
+    <Country>Russia</Country>
+    <Region>Kandalaksa</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>57</StationId>
-    <Country>57</Country>
-    <Air_Pressure>57</Air_Pressure>
-    <Time_Updated>57</Time_Updated>
+    <StationId>222350</StationId>
+    <Country>Russia</Country>
+    <Region>Krasnoscele</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>58</StationId>
-    <Country>58</Country>
-    <Air_Pressure>58</Air_Pressure>
-    <Time_Updated>58</Time_Updated>
+    <StationId>222690</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Konusin</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>59</StationId>
-    <Country>59</Country>
-    <Air_Pressure>59</Air_Pressure>
-    <Time_Updated>59</Time_Updated>
+    <StationId>222710</StationId>
+    <Country>Russia</Country>
+    <Region>Sojna</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>60</StationId>
-    <Country>60</Country>
-    <Air_Pressure>60</Air_Pressure>
-    <Time_Updated>60</Time_Updated>
+    <StationId>222820</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Mikulkin</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>61</StationId>
-    <Country>61</Country>
-    <Air_Pressure>61</Air_Pressure>
-    <Time_Updated>61</Time_Updated>
+    <StationId>222920</StationId>
+    <Country>Russia</Country>
+    <Region>Indiga</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>62</StationId>
-    <Country>62</Country>
-    <Air_Pressure>62</Air_Pressure>
-    <Time_Updated>62</Time_Updated>
+    <StationId>223240</StationId>
+    <Country>Russia</Country>
+    <Region>Umba</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>63</StationId>
-    <Country>63</Country>
-    <Air_Pressure>63</Air_Pressure>
-    <Time_Updated>63</Time_Updated>
+    <StationId>223490</StationId>
+    <Country>Russia</Country>
+    <Region>Pjalica</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>64</StationId>
-    <Country>64</Country>
-    <Air_Pressure>64</Air_Pressure>
-    <Time_Updated>64</Time_Updated>
+    <StationId>223650</StationId>
+    <Country>Russia</Country>
+    <Region>Abramovskij Majak</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>65</StationId>
-    <Country>65</Country>
-    <Air_Pressure>65</Air_Pressure>
-    <Time_Updated>65</Time_Updated>
+    <StationId>224030</StationId>
+    <Country>Russia</Country>
+    <Region>Kestenga</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>66</StationId>
-    <Country>66</Country>
-    <Air_Pressure>66</Air_Pressure>
-    <Time_Updated>66</Time_Updated>
+    <StationId>224080</StationId>
+    <Country>Russia</Country>
+    <Region>Kalevala</Region>
+    <Air_Pressure>996.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>67</StationId>
-    <Country>67</Country>
-    <Air_Pressure>67</Air_Pressure>
-    <Time_Updated>67</Time_Updated>
+    <StationId>224220</StationId>
+    <Country>Russia</Country>
+    <Region>Gridino</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>68</StationId>
-    <Country>68</Country>
-    <Air_Pressure>68</Air_Pressure>
-    <Time_Updated>68</Time_Updated>
+    <StationId>224380</StationId>
+    <Country>Russia</Country>
+    <Region>Zizgin</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>69</StationId>
-    <Country>69</Country>
-    <Air_Pressure>69</Air_Pressure>
-    <Time_Updated>69</Time_Updated>
+    <StationId>224710</StationId>
+    <Country>Russia</Country>
+    <Region>Mezen</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>70</StationId>
-    <Country>70</Country>
-    <Air_Pressure>70</Air_Pressure>
-    <Time_Updated>70</Time_Updated>
+    <StationId>225220</StationId>
+    <Country>Russia</Country>
+    <Region>Kem</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>71</StationId>
-    <Country>71</Country>
-    <Air_Pressure>71</Air_Pressure>
-    <Time_Updated>71</Time_Updated>
+    <StationId>225500</StationId>
+    <Country>Russia</Country>
+    <Region>Arhangelsk</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>72</StationId>
-    <Country>72</Country>
-    <Air_Pressure>72</Air_Pressure>
-    <Time_Updated>72</Time_Updated>
+    <StationId>225630</StationId>
+    <Country>Russia</Country>
+    <Region>Pinega</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>73</StationId>
-    <Country>73</Country>
-    <Air_Pressure>73</Air_Pressure>
-    <Time_Updated>73</Time_Updated>
+    <StationId>225830</StationId>
+    <Country>Russia</Country>
+    <Region>Kojnas</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>74</StationId>
-    <Country>74</Country>
-    <Air_Pressure>74</Air_Pressure>
-    <Time_Updated>74</Time_Updated>
+    <StationId>226020</StationId>
+    <Country>Russia</Country>
+    <Region>Reboly</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>75</StationId>
-    <Country>75</Country>
-    <Air_Pressure>75</Air_Pressure>
-    <Time_Updated>75</Time_Updated>
+    <StationId>226210</StationId>
+    <Country>Russia</Country>
+    <Region>Segeza</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>76</StationId>
-    <Country>76</Country>
-    <Air_Pressure>76</Air_Pressure>
-    <Time_Updated>76</Time_Updated>
+    <StationId>226410</StationId>
+    <Country>Russia</Country>
+    <Region>Onega</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>77</StationId>
-    <Country>77</Country>
-    <Air_Pressure>77</Air_Pressure>
-    <Time_Updated>77</Time_Updated>
+    <StationId>226760</StationId>
+    <Country>Russia</Country>
+    <Region>Sura</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>78</StationId>
-    <Country>78</Country>
-    <Air_Pressure>78</Air_Pressure>
-    <Time_Updated>78</Time_Updated>
+    <StationId>226950</StationId>
+    <Country>Russia</Country>
+    <Region>Koslan</Region>
+    <Air_Pressure>942.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>79</StationId>
-    <Country>79</Country>
-    <Air_Pressure>79</Air_Pressure>
-    <Time_Updated>79</Time_Updated>
+    <StationId>227210</StationId>
+    <Country>Russia</Country>
+    <Region>Medvezegorsk</Region>
+    <Air_Pressure>993.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>80</StationId>
-    <Country>80</Country>
-    <Air_Pressure>80</Air_Pressure>
-    <Time_Updated>80</Time_Updated>
+    <StationId>227680</StationId>
+    <Country>Russia</Country>
+    <Region>Senkursk</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>81</StationId>
-    <Country>81</Country>
-    <Air_Pressure>81</Air_Pressure>
-    <Time_Updated>81</Time_Updated>
+    <StationId>227780</StationId>
+    <Country>Russia</Country>
+    <Region>Verhnjaja Tojma</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>82</StationId>
-    <Country>82</Country>
-    <Air_Pressure>82</Air_Pressure>
-    <Time_Updated>82</Time_Updated>
+    <StationId>227980</StationId>
+    <Country>Russia</Country>
+    <Region>Jarensk</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>83</StationId>
-    <Country>83</Country>
-    <Air_Pressure>83</Air_Pressure>
-    <Time_Updated>83</Time_Updated>
+    <StationId>228020</StationId>
+    <Country>Russia</Country>
+    <Region>Sortavala</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>84</StationId>
-    <Country>84</Country>
-    <Air_Pressure>84</Air_Pressure>
-    <Time_Updated>84</Time_Updated>
+    <StationId>228200</StationId>
+    <Country>Russia</Country>
+    <Region>Petrozavodsk</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>85</StationId>
-    <Country>85</Country>
-    <Air_Pressure>85</Air_Pressure>
-    <Time_Updated>85</Time_Updated>
+    <StationId>228370</StationId>
+    <Country>Russia</Country>
+    <Region>Vytegra</Region>
+    <Air_Pressure>1027.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>86</StationId>
-    <Country>86</Country>
-    <Air_Pressure>86</Air_Pressure>
-    <Time_Updated>86</Time_Updated>
+    <StationId>228450</StationId>
+    <Country>Russia</Country>
+    <Region>Kargopol</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>87</StationId>
-    <Country>87</Country>
-    <Air_Pressure>87</Air_Pressure>
-    <Time_Updated>87</Time_Updated>
+    <StationId>228540</StationId>
+    <Country>Russia</Country>
+    <Region>Njandoma</Region>
+    <Air_Pressure>998.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>88</StationId>
-    <Country>88</Country>
-    <Air_Pressure>88</Air_Pressure>
-    <Time_Updated>88</Time_Updated>
+    <StationId>228670</StationId>
+    <Country>Russia</Country>
+    <Region>Velsk</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>89</StationId>
-    <Country>89</Country>
-    <Air_Pressure>89</Air_Pressure>
-    <Time_Updated>89</Time_Updated>
+    <StationId>228870</StationId>
+    <Country>Russia</Country>
+    <Region>Kotlas</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>90</StationId>
-    <Country>90</Country>
-    <Air_Pressure>90</Air_Pressure>
-    <Time_Updated>90</Time_Updated>
+    <StationId>228920</StationId>
+    <Country>Russia</Country>
+    <Region>Vyborg</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>91</StationId>
-    <Country>91</Country>
-    <Air_Pressure>91</Air_Pressure>
-    <Time_Updated>91</Time_Updated>
+    <StationId>229390</StationId>
+    <Country>Russia</Country>
+    <Region>Belozersk</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>92</StationId>
-    <Country>92</Country>
-    <Air_Pressure>92</Air_Pressure>
-    <Time_Updated>92</Time_Updated>
+    <StationId>229540</StationId>
+    <Country>Russia</Country>
+    <Region>Vozega</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>93</StationId>
-    <Country>93</Country>
-    <Air_Pressure>93</Air_Pressure>
-    <Time_Updated>93</Time_Updated>
+    <StationId>229960</StationId>
+    <Country>Russia</Country>
+    <Region>Objacevo</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>94</StationId>
-    <Country>94</Country>
-    <Air_Pressure>94</Air_Pressure>
-    <Time_Updated>94</Time_Updated>
+    <StationId>230220</StationId>
+    <Country>Russia</Country>
+    <Region>Amderma</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>95</StationId>
-    <Country>95</Country>
-    <Air_Pressure>95</Air_Pressure>
-    <Time_Updated>95</Time_Updated>
+    <StationId>230240</StationId>
+    <Country>Russia</Country>
+    <Region>Cape Bely</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>96</StationId>
-    <Country>96</Country>
-    <Air_Pressure>96</Air_Pressure>
-    <Time_Updated>96</Time_Updated>
+    <StationId>230290</StationId>
+    <Country>Russia</Country>
+    <Region>Ust-Kara</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>97</StationId>
-    <Country>97</Country>
-    <Air_Pressure>97</Air_Pressure>
-    <Time_Updated>97</Time_Updated>
+    <StationId>230320</StationId>
+    <Country>Russia</Country>
+    <Region>Maresale</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>98</StationId>
-    <Country>98</Country>
-    <Air_Pressure>98</Air_Pressure>
-    <Time_Updated>98</Time_Updated>
+    <StationId>232050</StationId>
+    <Country>Russia</Country>
+    <Region>Narjan-Mar</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>99</StationId>
-    <Country>99</Country>
-    <Air_Pressure>99</Air_Pressure>
-    <Time_Updated>99</Time_Updated>
+    <StationId>232190</StationId>
+    <Country>Russia</Country>
+    <Region>Hoseda-Hard</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>100</StationId>
-    <Country>100</Country>
-    <Air_Pressure>100</Air_Pressure>
-    <Time_Updated>100</Time_Updated>
+    <StationId>232201</StationId>
+    <Country>Russia</Country>
+    <Region>Salekhard</Region>
+    <Air_Pressure>983.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>101</StationId>
-    <Country>101</Country>
-    <Air_Pressure>101</Air_Pressure>
-    <Time_Updated>101</Time_Updated>
+    <StationId>232204</StationId>
+    <Country>Russia</Country>
+    <Region>Roschino</Region>
+    <Air_Pressure>956.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>102</StationId>
-    <Country>102</Country>
-    <Air_Pressure>102</Air_Pressure>
-    <Time_Updated>102</Time_Updated>
+    <StationId>232205</StationId>
+    <Country>Russia</Country>
+    <Region>Ukhta</Region>
+    <Air_Pressure>987.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>103</StationId>
-    <Country>103</Country>
-    <Air_Pressure>103</Air_Pressure>
-    <Time_Updated>103</Time_Updated>
+    <StationId>232260</StationId>
+    <Country>Russia</Country>
+    <Region>Vorkuta</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>104</StationId>
-    <Country>104</Country>
-    <Air_Pressure>104</Air_Pressure>
-    <Time_Updated>104</Time_Updated>
+    <StationId>232420</StationId>
+    <Country>Russia</Country>
+    <Region>Novy Port</Region>
+    <Air_Pressure>1050.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>105</StationId>
-    <Country>105</Country>
-    <Air_Pressure>105</Air_Pressure>
-    <Time_Updated>105</Time_Updated>
+    <StationId>233300</StationId>
+    <Country>Russia</Country>
+    <Region>Salehard</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>106</StationId>
-    <Country>106</Country>
-    <Air_Pressure>106</Air_Pressure>
-    <Time_Updated>106</Time_Updated>
+    <StationId>233310</StationId>
+    <Country>Russia</Country>
+    <Region>Ra-Iz</Region>
+    <Air_Pressure>874.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>107</StationId>
-    <Country>107</Country>
-    <Air_Pressure>107</Air_Pressure>
-    <Time_Updated>107</Time_Updated>
+    <StationId>233330</StationId>
+    <Country>Russia</Country>
+    <Region>Jambur</Region>
+    <Air_Pressure>972.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>108</StationId>
-    <Country>108</Country>
-    <Air_Pressure>108</Air_Pressure>
-    <Time_Updated>108</Time_Updated>
+    <StationId>233390</StationId>
+    <Country>Russia</Country>
+    <Region>Jangi-Jugan</Region>
+    <Air_Pressure>1026.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>109</StationId>
-    <Country>109</Country>
-    <Air_Pressure>109</Air_Pressure>
-    <Time_Updated>109</Time_Updated>
+    <StationId>233410</StationId>
+    <Country>Russia</Country>
+    <Region>Jar-Sale</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>110</StationId>
-    <Country>110</Country>
-    <Air_Pressure>110</Air_Pressure>
-    <Time_Updated>110</Time_Updated>
+    <StationId>233450</StationId>
+    <Country>Russia</Country>
+    <Region>Nyda</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>111</StationId>
-    <Country>111</Country>
-    <Air_Pressure>111</Air_Pressure>
-    <Time_Updated>111</Time_Updated>
+    <StationId>234050</StationId>
+    <Country>Russia</Country>
+    <Region>Ust-Cilma</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>112</StationId>
-    <Country>112</Country>
-    <Air_Pressure>112</Air_Pressure>
-    <Time_Updated>112</Time_Updated>
+    <StationId>234120</StationId>
+    <Country>Russia</Country>
+    <Region>Ust-Usa</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>113</StationId>
-    <Country>113</Country>
-    <Air_Pressure>113</Air_Pressure>
-    <Time_Updated>113</Time_Updated>
+    <StationId>234180</StationId>
+    <Country>Russia</Country>
+    <Region>Pechora</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>114</StationId>
-    <Country>114</Country>
-    <Air_Pressure>114</Air_Pressure>
-    <Time_Updated>114</Time_Updated>
+    <StationId>234260</StationId>
+    <Country>Russia</Country>
+    <Region>Muzi</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>115</StationId>
-    <Country>115</Country>
-    <Air_Pressure>115</Air_Pressure>
-    <Time_Updated>115</Time_Updated>
+    <StationId>234450</StationId>
+    <Country>Russia</Country>
+    <Region>Nadym</Region>
+    <Air_Pressure>1039.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>116</StationId>
-    <Country>116</Country>
-    <Air_Pressure>116</Air_Pressure>
-    <Time_Updated>116</Time_Updated>
+    <StationId>235270</StationId>
+    <Country>Russia</Country>
+    <Region>Saran-Paul</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>117</StationId>
-    <Country>117</Country>
-    <Air_Pressure>117</Air_Pressure>
-    <Time_Updated>117</Time_Updated>
+    <StationId>236060</StationId>
+    <Country>Russia</Country>
+    <Region>Uhta</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>118</StationId>
-    <Country>118</Country>
-    <Air_Pressure>118</Air_Pressure>
-    <Time_Updated>118</Time_Updated>
+    <StationId>236290</StationId>
+    <Country>Russia</Country>
+    <Region>Igrim</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>119</StationId>
-    <Country>119</Country>
-    <Air_Pressure>119</Air_Pressure>
-    <Time_Updated>119</Time_Updated>
+    <StationId>236310</StationId>
+    <Country>Russia</Country>
+    <Region>Berezovo</Region>
+    <Air_Pressure>1023.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>120</StationId>
-    <Country>120</Country>
-    <Air_Pressure>120</Air_Pressure>
-    <Time_Updated>120</Time_Updated>
+    <StationId>236320</StationId>
+    <Country>Russia</Country>
+    <Region>Kislor West</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>121</StationId>
-    <Country>121</Country>
-    <Air_Pressure>121</Air_Pressure>
-    <Time_Updated>121</Time_Updated>
+    <StationId>237010</StationId>
+    <Country>Russia</Country>
+    <Region>Vesljana</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>122</StationId>
-    <Country>122</Country>
-    <Air_Pressure>122</Air_Pressure>
-    <Time_Updated>122</Time_Updated>
+    <StationId>237110</StationId>
+    <Country>Russia</Country>
+    <Region>Troicko-Pecherskoe</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>123</StationId>
-    <Country>123</Country>
-    <Air_Pressure>123</Air_Pressure>
-    <Time_Updated>123</Time_Updated>
+    <StationId>237240</StationId>
+    <Country>Russia</Country>
+    <Region>Njaksimvol</Region>
+    <Air_Pressure>1031.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>124</StationId>
-    <Country>124</Country>
-    <Air_Pressure>124</Air_Pressure>
-    <Time_Updated>124</Time_Updated>
+    <StationId>237340</StationId>
+    <Country>Russia</Country>
+    <Region>Oktjabrskoe</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>125</StationId>
-    <Country>125</Country>
-    <Air_Pressure>125</Air_Pressure>
-    <Time_Updated>125</Time_Updated>
+    <StationId>238030</StationId>
+    <Country>Russia</Country>
+    <Region>Ust-Kulom</Region>
+    <Air_Pressure>1025.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>126</StationId>
-    <Country>126</Country>
-    <Air_Pressure>126</Air_Pressure>
-    <Time_Updated>126</Time_Updated>
+    <StationId>238040</StationId>
+    <Country>Russia</Country>
+    <Region>Syktyvkar</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>127</StationId>
-    <Country>127</Country>
-    <Air_Pressure>127</Air_Pressure>
-    <Time_Updated>127</Time_Updated>
+    <StationId>238470</StationId>
+    <Country>Russia</Country>
+    <Region>Sitomino</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>128</StationId>
-    <Country>128</Country>
-    <Air_Pressure>128</Air_Pressure>
-    <Time_Updated>128</Time_Updated>
+    <StationId>239090</StationId>
+    <Country>Russia</Country>
+    <Region>Gajny</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>129</StationId>
-    <Country>129</Country>
-    <Air_Pressure>129</Air_Pressure>
-    <Time_Updated>129</Time_Updated>
+    <StationId>239140</StationId>
+    <Country>Russia</Country>
+    <Region>Cherdyn</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>130</StationId>
-    <Country>130</Country>
-    <Air_Pressure>130</Air_Pressure>
-    <Time_Updated>130</Time_Updated>
+    <StationId>239210</StationId>
+    <Country>Russia</Country>
+    <Region>Ivdel</Region>
+    <Air_Pressure>998.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>131</StationId>
-    <Country>131</Country>
-    <Air_Pressure>131</Air_Pressure>
-    <Time_Updated>131</Time_Updated>
+    <StationId>239290</StationId>
+    <Country>Russia</Country>
+    <Region>Saim</Region>
+    <Air_Pressure>1025.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>132</StationId>
-    <Country>132</Country>
-    <Air_Pressure>132</Air_Pressure>
-    <Time_Updated>132</Time_Updated>
+    <StationId>239330</StationId>
+    <Country>Russia</Country>
+    <Region>Hanty-Mansijsk</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>133</StationId>
-    <Country>133</Country>
-    <Air_Pressure>133</Air_Pressure>
-    <Time_Updated>133</Time_Updated>
+    <StationId>251730</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Shmidta</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>134</StationId>
-    <Country>134</Country>
-    <Air_Pressure>134</Air_Pressure>
-    <Time_Updated>134</Time_Updated>
+    <StationId>252820</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Vankarem</Region>
+    <Air_Pressure>1023.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>135</StationId>
-    <Country>135</Country>
-    <Air_Pressure>135</Air_Pressure>
-    <Time_Updated>135</Time_Updated>
+    <StationId>253720</StationId>
+    <Country>Russia</Country>
+    <Region>Amgujema</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>136</StationId>
-    <Country>136</Country>
-    <Air_Pressure>136</Air_Pressure>
-    <Time_Updated>136</Time_Updated>
+    <StationId>253780</StationId>
+    <Country>Russia</Country>
+    <Region>Egvekinot</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>137</StationId>
-    <Country>137</Country>
-    <Air_Pressure>137</Air_Pressure>
-    <Time_Updated>137</Time_Updated>
+    <StationId>253990</StationId>
+    <Country>Russia</Country>
+    <Region>Mys Uelen</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>138</StationId>
-    <Country>138</Country>
-    <Air_Pressure>138</Air_Pressure>
-    <Time_Updated>138</Time_Updated>
+    <StationId>254960</StationId>
+    <Country>Russia</Country>
+    <Region>Lavrentija</Region>
+    <Air_Pressure>993.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>139</StationId>
-    <Country>139</Country>
-    <Air_Pressure>139</Air_Pressure>
-    <Time_Updated>139</Time_Updated>
+    <StationId>255940</StationId>
+    <Country>Russia</Country>
+    <Region>Buhta Providenja</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>140</StationId>
-    <Country>140</Country>
-    <Air_Pressure>140</Air_Pressure>
-    <Time_Updated>140</Time_Updated>
+    <StationId>260380</StationId>
+    <Country>Estonia</Country>
+    <Region>Tallinn</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>141</StationId>
-    <Country>141</Country>
-    <Air_Pressure>141</Air_Pressure>
-    <Time_Updated>141</Time_Updated>
+    <StationId>260450</StationId>
+    <Country>Estonia</Country>
+    <Region>Kunda</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>142</StationId>
-    <Country>142</Country>
-    <Air_Pressure>142</Air_Pressure>
-    <Time_Updated>142</Time_Updated>
+    <StationId>260580</StationId>
+    <Country>Estonia</Country>
+    <Region>Narva</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>143</StationId>
-    <Country>143</Country>
-    <Air_Pressure>143</Air_Pressure>
-    <Time_Updated>143</Time_Updated>
+    <StationId>260590</StationId>
+    <Country>Russia</Country>
+    <Region>Kingisepp</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>144</StationId>
-    <Country>144</Country>
-    <Air_Pressure>144</Air_Pressure>
-    <Time_Updated>144</Time_Updated>
+    <StationId>260630</StationId>
+    <Country>Russia</Country>
+    <Region>St.Petersburg</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>145</StationId>
-    <Country>145</Country>
-    <Air_Pressure>145</Air_Pressure>
-    <Time_Updated>145</Time_Updated>
+    <StationId>260780</StationId>
+    <Country>Russia</Country>
+    <Region>Ljuban</Region>
+    <Air_Pressure>1002.6</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>146</StationId>
-    <Country>146</Country>
-    <Air_Pressure>146</Air_Pressure>
-    <Time_Updated>146</Time_Updated>
+    <StationId>260940</StationId>
+    <Country>Russia</Country>
+    <Region>Tihvin</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>147</StationId>
-    <Country>147</Country>
-    <Air_Pressure>147</Air_Pressure>
-    <Time_Updated>147</Time_Updated>
+    <StationId>261148</StationId>
+    <Country>Belarus</Country>
+    <Region>Minsk 2</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>148</StationId>
-    <Country>148</Country>
-    <Air_Pressure>148</Air_Pressure>
-    <Time_Updated>148</Time_Updated>
+    <StationId>261350</StationId>
+    <Country>Estonia</Country>
+    <Region>Turi</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>149</StationId>
-    <Country>149</Country>
-    <Air_Pressure>149</Air_Pressure>
-    <Time_Updated>149</Time_Updated>
+    <StationId>261410</StationId>
+    <Country>Estonia</Country>
+    <Region>Valke-Maarja</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>150</StationId>
-    <Country>150</Country>
-    <Air_Pressure>150</Air_Pressure>
-    <Time_Updated>150</Time_Updated>
+    <StationId>261670</StationId>
+    <Country>Russia</Country>
+    <Region>Nikolaevskoe</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>151</StationId>
-    <Country>151</Country>
-    <Air_Pressure>151</Air_Pressure>
-    <Time_Updated>151</Time_Updated>
+    <StationId>262150</StationId>
+    <Country>Estonia</Country>
+    <Region>Kuressaare</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>152</StationId>
-    <Country>152</Country>
-    <Air_Pressure>152</Air_Pressure>
-    <Time_Updated>152</Time_Updated>
+    <StationId>262290</StationId>
+    <Country>Latvia</Country>
+    <Region>Ainazi</Region>
+    <Air_Pressure>1029.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>153</StationId>
-    <Country>153</Country>
-    <Air_Pressure>153</Air_Pressure>
-    <Time_Updated>153</Time_Updated>
+    <StationId>262310</StationId>
+    <Country>Estonia</Country>
+    <Region>Pjarnu</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>154</StationId>
-    <Country>154</Country>
-    <Air_Pressure>154</Air_Pressure>
-    <Time_Updated>154</Time_Updated>
+    <StationId>262420</StationId>
+    <Country>Estonia</Country>
+    <Region>Tartu</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>155</StationId>
-    <Country>155</Country>
-    <Air_Pressure>155</Air_Pressure>
-    <Time_Updated>155</Time_Updated>
+    <StationId>262470</StationId>
+    <Country>Latvia</Country>
+    <Region>Valga</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>156</StationId>
-    <Country>156</Country>
-    <Air_Pressure>156</Air_Pressure>
-    <Time_Updated>156</Time_Updated>
+    <StationId>262580</StationId>
+    <Country>Russia</Country>
+    <Region>Pskov</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>157</StationId>
-    <Country>157</Country>
-    <Air_Pressure>157</Air_Pressure>
-    <Time_Updated>157</Time_Updated>
+    <StationId>262750</StationId>
+    <Country>Russia</Country>
+    <Region>Staraja Russa</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>158</StationId>
-    <Country>158</Country>
-    <Air_Pressure>158</Air_Pressure>
-    <Time_Updated>158</Time_Updated>
+    <StationId>262890</StationId>
+    <Country>Russia</Country>
+    <Region>Valdaj</Region>
+    <Air_Pressure>980.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>159</StationId>
-    <Country>159</Country>
-    <Air_Pressure>159</Air_Pressure>
-    <Time_Updated>159</Time_Updated>
+    <StationId>262980</StationId>
+    <Country>Russia</Country>
+    <Region>Bologoe</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>160</StationId>
-    <Country>160</Country>
-    <Air_Pressure>160</Air_Pressure>
-    <Time_Updated>160</Time_Updated>
+    <StationId>263130</StationId>
+    <Country>Latvia</Country>
+    <Region>Kolka</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>161</StationId>
-    <Country>161</Country>
-    <Air_Pressure>161</Air_Pressure>
-    <Time_Updated>161</Time_Updated>
+    <StationId>263140</StationId>
+    <Country>Latvia</Country>
+    <Region>Ventspils</Region>
+    <Air_Pressure>1013.8</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>162</StationId>
-    <Country>162</Country>
-    <Air_Pressure>162</Air_Pressure>
-    <Time_Updated>162</Time_Updated>
+    <StationId>263240</StationId>
+    <Country>Latvia</Country>
+    <Region>Mersrags</Region>
+    <Air_Pressure>1030.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>163</StationId>
-    <Country>163</Country>
-    <Air_Pressure>163</Air_Pressure>
-    <Time_Updated>163</Time_Updated>
+    <StationId>263460</StationId>
+    <Country>Latvia</Country>
+    <Region>Aluksne</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>164</StationId>
-    <Country>164</Country>
-    <Air_Pressure>164</Air_Pressure>
-    <Time_Updated>164</Time_Updated>
+    <StationId>263480</StationId>
+    <Country>Latvia</Country>
+    <Region>Gulbene</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>165</StationId>
-    <Country>165</Country>
-    <Air_Pressure>165</Air_Pressure>
-    <Time_Updated>165</Time_Updated>
+    <StationId>263590</StationId>
+    <Country>Russia</Country>
+    <Region>Puskinskie Gory</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>166</StationId>
-    <Country>166</Country>
-    <Air_Pressure>166</Air_Pressure>
-    <Time_Updated>166</Time_Updated>
+    <StationId>263780</StationId>
+    <Country>Russia</Country>
+    <Region>Holm</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>167</StationId>
-    <Country>167</Country>
-    <Air_Pressure>167</Air_Pressure>
-    <Time_Updated>167</Time_Updated>
+    <StationId>263890</StationId>
+    <Country>Russia</Country>
+    <Region>Ostaskov</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>168</StationId>
-    <Country>168</Country>
-    <Air_Pressure>168</Air_Pressure>
-    <Time_Updated>168</Time_Updated>
+    <StationId>264050</StationId>
+    <Country>Latvia</Country>
+    <Region>Ventspils</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>169</StationId>
-    <Country>169</Country>
-    <Air_Pressure>169</Air_Pressure>
-    <Time_Updated>169</Time_Updated>
+    <StationId>264060</StationId>
+    <Country>Latvia</Country>
+    <Region>Liepaja</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>170</StationId>
-    <Country>170</Country>
-    <Air_Pressure>170</Air_Pressure>
-    <Time_Updated>170</Time_Updated>
+    <StationId>264160</StationId>
+    <Country>Latvia</Country>
+    <Region>Saldus</Region>
+    <Air_Pressure>1034.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>171</StationId>
-    <Country>171</Country>
-    <Air_Pressure>171</Air_Pressure>
-    <Time_Updated>171</Time_Updated>
+    <StationId>264220</StationId>
+    <Country>Latvia</Country>
+    <Region>Riga</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>172</StationId>
-    <Country>172</Country>
-    <Air_Pressure>172</Air_Pressure>
-    <Time_Updated>172</Time_Updated>
+    <StationId>264225</StationId>
+    <Country>Latvia</Country>
+    <Region>Riga</Region>
+    <Air_Pressure>991.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>173</StationId>
-    <Country>173</Country>
-    <Air_Pressure>173</Air_Pressure>
-    <Time_Updated>173</Time_Updated>
+    <StationId>264460</StationId>
+    <Country>Latvia</Country>
+    <Region>Rezekne</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>174</StationId>
-    <Country>174</Country>
-    <Air_Pressure>174</Air_Pressure>
-    <Time_Updated>174</Time_Updated>
+    <StationId>264770</StationId>
+    <Country>Russia</Country>
+    <Region>Velikie Luki</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>175</StationId>
-    <Country>175</Country>
-    <Air_Pressure>175</Air_Pressure>
-    <Time_Updated>175</Time_Updated>
+    <StationId>264980</StationId>
+    <Country>Russia</Country>
+    <Region>Rzev</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>176</StationId>
-    <Country>176</Country>
-    <Air_Pressure>176</Air_Pressure>
-    <Time_Updated>176</Time_Updated>
+    <StationId>264990</StationId>
+    <Country>Russia</Country>
+    <Region>Staritsa</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>177</StationId>
-    <Country>177</Country>
-    <Air_Pressure>177</Air_Pressure>
-    <Time_Updated>177</Time_Updated>
+    <StationId>265020</StationId>
+    <Country>Lithuania</Country>
+    <Region>Palanga</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>178</StationId>
-    <Country>178</Country>
-    <Air_Pressure>178</Air_Pressure>
-    <Time_Updated>178</Time_Updated>
+    <StationId>265021</StationId>
+    <Country>Lithuania</Country>
+    <Region>Siauliai Intl</Region>
+    <Air_Pressure>992.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>179</StationId>
-    <Country>179</Country>
-    <Air_Pressure>179</Air_Pressure>
-    <Time_Updated>179</Time_Updated>
+    <StationId>265090</StationId>
+    <Country>Lithuania</Country>
+    <Region>Klaipeda</Region>
+    <Air_Pressure>1027.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>180</StationId>
-    <Country>180</Country>
-    <Air_Pressure>180</Air_Pressure>
-    <Time_Updated>180</Time_Updated>
+    <StationId>265180</StationId>
+    <Country>Lithuania</Country>
+    <Region>Laukuva</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>181</StationId>
-    <Country>181</Country>
-    <Air_Pressure>181</Air_Pressure>
-    <Time_Updated>181</Time_Updated>
+    <StationId>265240</StationId>
+    <Country>Lithuania</Country>
+    <Region>Siauliai</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>182</StationId>
-    <Country>182</Country>
-    <Air_Pressure>182</Air_Pressure>
-    <Time_Updated>182</Time_Updated>
+    <StationId>265290</StationId>
+    <Country>Lithuania</Country>
+    <Region>Panevezys</Region>
+    <Air_Pressure>1026.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>183</StationId>
-    <Country>183</Country>
-    <Air_Pressure>183</Air_Pressure>
-    <Time_Updated>183</Time_Updated>
+    <StationId>265310</StationId>
+    <Country>Lithuania</Country>
+    <Region>Birzai</Region>
+    <Air_Pressure>1027.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>184</StationId>
-    <Country>184</Country>
-    <Air_Pressure>184</Air_Pressure>
-    <Time_Updated>184</Time_Updated>
+    <StationId>265440</StationId>
+    <Country>Latvia</Country>
+    <Region>Daugavpils</Region>
+    <Air_Pressure>988.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>185</StationId>
-    <Country>185</Country>
-    <Air_Pressure>185</Air_Pressure>
-    <Time_Updated>185</Time_Updated>
+    <StationId>265540</StationId>
+    <Country>Belarus</Country>
+    <Region>Verhnedvinsk</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>186</StationId>
-    <Country>186</Country>
-    <Air_Pressure>186</Air_Pressure>
-    <Time_Updated>186</Time_Updated>
+    <StationId>265850</StationId>
+    <Country>Russia</Country>
+    <Region>Belyj</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>187</StationId>
-    <Country>187</Country>
-    <Air_Pressure>187</Air_Pressure>
-    <Time_Updated>187</Time_Updated>
+    <StationId>266000</StationId>
+    <Country>Lithuania</Country>
+    <Region>Silute</Region>
+    <Air_Pressure>1033.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>188</StationId>
-    <Country>188</Country>
-    <Air_Pressure>188</Air_Pressure>
-    <Time_Updated>188</Time_Updated>
+    <StationId>266210</StationId>
+    <Country>Lithuania</Country>
+    <Region>Raseiniai</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>189</StationId>
-    <Country>189</Country>
-    <Air_Pressure>189</Air_Pressure>
-    <Time_Updated>189</Time_Updated>
+    <StationId>266290</StationId>
+    <Country>Lithuania</Country>
+    <Region>Kaunas</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>190</StationId>
-    <Country>190</Country>
-    <Air_Pressure>190</Air_Pressure>
-    <Time_Updated>190</Time_Updated>
+    <StationId>266295</StationId>
+    <Country>Lithuania</Country>
+    <Region>Kaunas Intl</Region>
+    <Air_Pressure>1031.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>191</StationId>
-    <Country>191</Country>
-    <Air_Pressure>191</Air_Pressure>
-    <Time_Updated>191</Time_Updated>
+    <StationId>266330</StationId>
+    <Country>Lithuania</Country>
+    <Region>Utena</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>192</StationId>
-    <Country>192</Country>
-    <Air_Pressure>192</Air_Pressure>
-    <Time_Updated>192</Time_Updated>
+    <StationId>266450</StationId>
+    <Country>Belarus</Country>
+    <Region>Lyntupy</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>193</StationId>
-    <Country>193</Country>
-    <Air_Pressure>193</Air_Pressure>
-    <Time_Updated>193</Time_Updated>
+    <StationId>266590</StationId>
+    <Country>Belarus</Country>
+    <Region>Lepel</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>194</StationId>
-    <Country>194</Country>
-    <Air_Pressure>194</Air_Pressure>
-    <Time_Updated>194</Time_Updated>
+    <StationId>266660</StationId>
+    <Country>Belarus</Country>
+    <Region>Vitebsk</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>195</StationId>
-    <Country>195</Country>
-    <Air_Pressure>195</Air_Pressure>
-    <Time_Updated>195</Time_Updated>
+    <StationId>266950</StationId>
+    <Country>Russia</Country>
+    <Region>Vjazma</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>196</StationId>
-    <Country>196</Country>
-    <Air_Pressure>196</Air_Pressure>
-    <Time_Updated>196</Time_Updated>
+    <StationId>267020</StationId>
+    <Country>Russia</Country>
+    <Region>Kaliningrad</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>197</StationId>
-    <Country>197</Country>
-    <Air_Pressure>197</Air_Pressure>
-    <Time_Updated>197</Time_Updated>
+    <StationId>267130</StationId>
+    <Country>Lithuania</Country>
+    <Region>Kybartai</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>198</StationId>
-    <Country>198</Country>
-    <Air_Pressure>198</Air_Pressure>
-    <Time_Updated>198</Time_Updated>
+    <StationId>267300</StationId>
+    <Country>Lithuania</Country>
+    <Region>Vilnius</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>199</StationId>
-    <Country>199</Country>
-    <Air_Pressure>199</Air_Pressure>
-    <Time_Updated>199</Time_Updated>
+    <StationId>267370</StationId>
+    <Country>Lithuania</Country>
+    <Region>Varena</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>200</StationId>
-    <Country>200</Country>
-    <Air_Pressure>200</Air_Pressure>
-    <Time_Updated>200</Time_Updated>
+    <StationId>267630</StationId>
+    <Country>Belarus</Country>
+    <Region>Orsha</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>201</StationId>
-    <Country>201</Country>
-    <Air_Pressure>201</Air_Pressure>
-    <Time_Updated>201</Time_Updated>
+    <StationId>267810</StationId>
+    <Country>Russia</Country>
+    <Region>Smolensk</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>202</StationId>
-    <Country>202</Country>
-    <Air_Pressure>202</Air_Pressure>
-    <Time_Updated>202</Time_Updated>
+    <StationId>268250</StationId>
+    <Country>Belarus</Country>
+    <Region>Grodno</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>203</StationId>
-    <Country>203</Country>
-    <Air_Pressure>203</Air_Pressure>
-    <Time_Updated>203</Time_Updated>
+    <StationId>268320</StationId>
+    <Country>Belarus</Country>
+    <Region>Lida</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>204</StationId>
-    <Country>204</Country>
-    <Air_Pressure>204</Air_Pressure>
-    <Time_Updated>204</Time_Updated>
+    <StationId>268500</StationId>
+    <Country>Belarus</Country>
+    <Region>Minsk</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>205</StationId>
-    <Country>205</Country>
-    <Air_Pressure>205</Air_Pressure>
-    <Time_Updated>205</Time_Updated>
+    <StationId>268630</StationId>
+    <Country>Belarus</Country>
+    <Region>Mogilev</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>206</StationId>
-    <Country>206</Country>
-    <Air_Pressure>206</Air_Pressure>
-    <Time_Updated>206</Time_Updated>
+    <StationId>268820</StationId>
+    <Country>Russia</Country>
+    <Region>Roslavl</Region>
+    <Air_Pressure>996.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>207</StationId>
-    <Country>207</Country>
-    <Air_Pressure>207</Air_Pressure>
-    <Time_Updated>207</Time_Updated>
+    <StationId>268870</StationId>
+    <Country>Belarus</Country>
+    <Region>Kostuckovichi</Region>
+    <Air_Pressure>1029.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>208</StationId>
-    <Country>208</Country>
-    <Air_Pressure>208</Air_Pressure>
-    <Time_Updated>208</Time_Updated>
+    <StationId>268980</StationId>
+    <Country>Russia</Country>
+    <Region>Brjansk</Region>
+    <Air_Pressure>1029.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>209</StationId>
-    <Country>209</Country>
-    <Air_Pressure>209</Air_Pressure>
-    <Time_Updated>209</Time_Updated>
+    <StationId>269410</StationId>
+    <Country>Belarus</Country>
+    <Region>Baranovichi</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>210</StationId>
-    <Country>210</Country>
-    <Air_Pressure>210</Air_Pressure>
-    <Time_Updated>210</Time_Updated>
+    <StationId>269510</StationId>
+    <Country>Belarus</Country>
+    <Region>Slutsk</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>211</StationId>
-    <Country>211</Country>
-    <Air_Pressure>211</Air_Pressure>
-    <Time_Updated>211</Time_Updated>
+    <StationId>269610</StationId>
+    <Country>Belarus</Country>
+    <Region>Bobruisk</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>212</StationId>
-    <Country>212</Country>
-    <Air_Pressure>212</Air_Pressure>
-    <Time_Updated>212</Time_Updated>
+    <StationId>269970</StationId>
+    <Country>Russia</Country>
+    <Region>Trubcevsk</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>213</StationId>
-    <Country>213</Country>
-    <Air_Pressure>213</Air_Pressure>
-    <Time_Updated>213</Time_Updated>
+    <StationId>270080</StationId>
+    <Country>Russia</Country>
+    <Region>Babaevo</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>214</StationId>
-    <Country>214</Country>
-    <Air_Pressure>214</Air_Pressure>
-    <Time_Updated>214</Time_Updated>
+    <StationId>270370</StationId>
+    <Country>Russia</Country>
+    <Region>Vologda</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>215</StationId>
-    <Country>215</Country>
-    <Air_Pressure>215</Air_Pressure>
-    <Time_Updated>215</Time_Updated>
+    <StationId>270510</StationId>
+    <Country>Russia</Country>
+    <Region>Tot`Ma</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>216</StationId>
-    <Country>216</Country>
-    <Air_Pressure>216</Air_Pressure>
-    <Time_Updated>216</Time_Updated>
+    <StationId>270660</StationId>
+    <Country>Russia</Country>
+    <Region>Nikol`Sk</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>217</StationId>
-    <Country>217</Country>
-    <Air_Pressure>217</Air_Pressure>
-    <Time_Updated>217</Time_Updated>
+    <StationId>270830</StationId>
+    <Country>Russia</Country>
+    <Region>Oparino</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>218</StationId>
-    <Country>218</Country>
-    <Air_Pressure>218</Air_Pressure>
-    <Time_Updated>218</Time_Updated>
+    <StationId>271130</StationId>
+    <Country>Russia</Country>
+    <Region>Cerepovec</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>219</StationId>
-    <Country>219</Country>
-    <Air_Pressure>219</Air_Pressure>
-    <Time_Updated>219</Time_Updated>
+    <StationId>271990</StationId>
+    <Country>Russia</Country>
+    <Region>Kirov</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>220</StationId>
-    <Country>220</Country>
-    <Air_Pressure>220</Air_Pressure>
-    <Time_Updated>220</Time_Updated>
+    <StationId>272080</StationId>
+    <Country>Russia</Country>
+    <Region>Maksatikha</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>221</StationId>
-    <Country>221</Country>
-    <Air_Pressure>221</Air_Pressure>
-    <Time_Updated>221</Time_Updated>
+    <StationId>272170</StationId>
+    <Country>Russia</Country>
+    <Region>Bezeck</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>222</StationId>
-    <Country>222</Country>
-    <Air_Pressure>222</Air_Pressure>
-    <Time_Updated>222</Time_Updated>
+    <StationId>272250</StationId>
+    <Country>Russia</Country>
+    <Region>Rybinsk</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>223</StationId>
-    <Country>223</Country>
-    <Air_Pressure>223</Air_Pressure>
-    <Time_Updated>223</Time_Updated>
+    <StationId>272420</StationId>
+    <Country>Russia</Country>
+    <Region>Buj</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>224</StationId>
-    <Country>224</Country>
-    <Air_Pressure>224</Air_Pressure>
-    <Time_Updated>224</Time_Updated>
+    <StationId>272520</StationId>
+    <Country>Russia</Country>
+    <Region>Nikolo-Poloma</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>225</StationId>
-    <Country>225</Country>
-    <Air_Pressure>225</Air_Pressure>
-    <Time_Updated>225</Time_Updated>
+    <StationId>272710</StationId>
+    <Country>Russia</Country>
+    <Region>Sar`Ja</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>226</StationId>
-    <Country>226</Country>
-    <Air_Pressure>226</Air_Pressure>
-    <Time_Updated>226</Time_Updated>
+    <StationId>273290</StationId>
+    <Country>Russia</Country>
+    <Region>Rostov</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>227</StationId>
-    <Country>227</Country>
-    <Air_Pressure>227</Air_Pressure>
-    <Time_Updated>227</Time_Updated>
+    <StationId>273550</StationId>
+    <Country>Russia</Country>
+    <Region>Jur`Evec</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>228</StationId>
-    <Country>228</Country>
-    <Air_Pressure>228</Air_Pressure>
-    <Time_Updated>228</Time_Updated>
+    <StationId>273690</StationId>
+    <Country>Russia</Country>
+    <Region>Krasnye Baki</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>229</StationId>
-    <Country>229</Country>
-    <Air_Pressure>229</Air_Pressure>
-    <Time_Updated>229</Time_Updated>
+    <StationId>273730</StationId>
+    <Country>Russia</Country>
+    <Region>Sakun`Ja</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>230</StationId>
-    <Country>230</Country>
-    <Air_Pressure>230</Air_Pressure>
-    <Time_Updated>230</Time_Updated>
+    <StationId>273930</StationId>
+    <Country>Russia</Country>
+    <Region>Nolinsk</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>231</StationId>
-    <Country>231</Country>
-    <Air_Pressure>231</Air_Pressure>
-    <Time_Updated>231</Time_Updated>
+    <StationId>274020</StationId>
+    <Country>Russia</Country>
+    <Region>Tver</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>232</StationId>
-    <Country>232</Country>
-    <Air_Pressure>232</Air_Pressure>
-    <Time_Updated>232</Time_Updated>
+    <StationId>274590</StationId>
+    <Country>Russia</Country>
+    <Region>Niznij Novgorod</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>233</StationId>
-    <Country>233</Country>
-    <Air_Pressure>233</Air_Pressure>
-    <Time_Updated>233</Time_Updated>
+    <StationId>274790</StationId>
+    <Country>Russia</Country>
+    <Region>Koz`Modem`Jansk</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>234</StationId>
-    <Country>234</Country>
-    <Air_Pressure>234</Air_Pressure>
-    <Time_Updated>234</Time_Updated>
+    <StationId>275155</StationId>
+    <Country>Russia</Country>
+    <Region>Sheremetyevo</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>235</StationId>
-    <Country>235</Country>
-    <Air_Pressure>235</Air_Pressure>
-    <Time_Updated>235</Time_Updated>
+    <StationId>275185</StationId>
+    <Country>Russia</Country>
+    <Region>Vnukovo</Region>
+    <Air_Pressure>993.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>236</StationId>
-    <Country>236</Country>
-    <Air_Pressure>236</Air_Pressure>
-    <Time_Updated>236</Time_Updated>
+    <StationId>275320</StationId>
+    <Country>Russia</Country>
+    <Region>Vladimir</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>237</StationId>
-    <Country>237</Country>
-    <Air_Pressure>237</Air_Pressure>
-    <Time_Updated>237</Time_Updated>
+    <StationId>275950</StationId>
+    <Country>Russia</Country>
+    <Region>Kazan`</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>238</StationId>
-    <Country>238</Country>
-    <Air_Pressure>238</Air_Pressure>
-    <Time_Updated>238</Time_Updated>
+    <StationId>276070</StationId>
+    <Country>Russia</Country>
+    <Region>Begishevo</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>239</StationId>
-    <Country>239</Country>
-    <Air_Pressure>239</Air_Pressure>
-    <Time_Updated>239</Time_Updated>
+    <StationId>276120</StationId>
+    <Country>Russia</Country>
+    <Region>Moskva</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>240</StationId>
-    <Country>240</Country>
-    <Air_Pressure>240</Air_Pressure>
-    <Time_Updated>240</Time_Updated>
+    <StationId>276480</StationId>
+    <Country>Russia</Country>
+    <Region>Elat`Ma</Region>
+    <Air_Pressure>1012.6</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>241</StationId>
-    <Country>241</Country>
-    <Air_Pressure>241</Air_Pressure>
-    <Time_Updated>241</Time_Updated>
+    <StationId>276650</StationId>
+    <Country>Russia</Country>
+    <Region>Lukojanov</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>242</StationId>
-    <Country>242</Country>
-    <Air_Pressure>242</Air_Pressure>
-    <Time_Updated>242</Time_Updated>
+    <StationId>276790</StationId>
+    <Country>Russia</Country>
+    <Region>Alatyr`</Region>
+    <Air_Pressure>1025.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>243</StationId>
-    <Country>243</Country>
-    <Air_Pressure>243</Air_Pressure>
-    <Time_Updated>243</Time_Updated>
+    <StationId>277030</StationId>
+    <Country>Russia</Country>
+    <Region>Kaluga</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>244</StationId>
-    <Country>244</Country>
-    <Air_Pressure>244</Air_Pressure>
-    <Time_Updated>244</Time_Updated>
+    <StationId>277070</StationId>
+    <Country>Russia</Country>
+    <Region>Suhinici</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>245</StationId>
-    <Country>245</Country>
-    <Air_Pressure>245</Air_Pressure>
-    <Time_Updated>245</Time_Updated>
+    <StationId>277190</StationId>
+    <Country>Russia</Country>
+    <Region>Tula</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>246</StationId>
-    <Country>246</Country>
-    <Air_Pressure>246</Air_Pressure>
-    <Time_Updated>246</Time_Updated>
+    <StationId>277300</StationId>
+    <Country>Russia</Country>
+    <Region>Rjazan`</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>247</StationId>
-    <Country>247</Country>
-    <Air_Pressure>247</Air_Pressure>
-    <Time_Updated>247</Time_Updated>
+    <StationId>277860</StationId>
+    <Country>Russia</Country>
+    <Region>Ulyanovsk</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>248</StationId>
-    <Country>248</Country>
-    <Air_Pressure>248</Air_Pressure>
-    <Time_Updated>248</Time_Updated>
+    <StationId>278230</StationId>
+    <Country>Russia</Country>
+    <Region>Pavelec</Region>
+    <Air_Pressure>1040.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>249</StationId>
-    <Country>249</Country>
-    <Air_Pressure>249</Air_Pressure>
-    <Time_Updated>249</Time_Updated>
+    <StationId>278350</StationId>
+    <Country>Russia</Country>
+    <Region>Rjazsk</Region>
+    <Air_Pressure>1091.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>250</StationId>
-    <Country>250</Country>
-    <Air_Pressure>250</Air_Pressure>
-    <Time_Updated>250</Time_Updated>
+    <StationId>278570</StationId>
+    <Country>Russia</Country>
+    <Region>Zametcino</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>251</StationId>
-    <Country>251</Country>
-    <Air_Pressure>251</Air_Pressure>
-    <Time_Updated>251</Time_Updated>
+    <StationId>279060</StationId>
+    <Country>Russia</Country>
+    <Region>Orel</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>252</StationId>
-    <Country>252</Country>
-    <Air_Pressure>252</Air_Pressure>
-    <Time_Updated>252</Time_Updated>
+    <StationId>279280</StationId>
+    <Country>Russia</Country>
+    <Region>Elec</Region>
+    <Air_Pressure>987.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>253</StationId>
-    <Country>253</Country>
-    <Air_Pressure>253</Air_Pressure>
-    <Time_Updated>253</Time_Updated>
+    <StationId>279470</StationId>
+    <Country>Russia</Country>
+    <Region>Tambov</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>254</StationId>
-    <Country>254</Country>
-    <Air_Pressure>254</Air_Pressure>
-    <Time_Updated>254</Time_Updated>
+    <StationId>279620</StationId>
+    <Country>Russia</Country>
+    <Region>Penza</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>255</StationId>
-    <Country>255</Country>
-    <Air_Pressure>255</Air_Pressure>
-    <Time_Updated>255</Time_Updated>
+    <StationId>279830</StationId>
+    <Country>Russia</Country>
+    <Region>Syzran`</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>256</StationId>
-    <Country>256</Country>
-    <Air_Pressure>256</Air_Pressure>
-    <Time_Updated>256</Time_Updated>
+    <StationId>280090</StationId>
+    <Country>Russia</Country>
+    <Region>Kirs</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>257</StationId>
-    <Country>257</Country>
-    <Air_Pressure>257</Air_Pressure>
-    <Time_Updated>257</Time_Updated>
+    <StationId>280440</StationId>
+    <Country>Russia</Country>
+    <Region>Serov</Region>
+    <Air_Pressure>1024.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>258</StationId>
-    <Country>258</Country>
-    <Air_Pressure>258</Air_Pressure>
-    <Time_Updated>258</Time_Updated>
+    <StationId>280490</StationId>
+    <Country>Russia</Country>
+    <Region>Gari</Region>
+    <Air_Pressure>1037.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>259</StationId>
-    <Country>259</Country>
-    <Air_Pressure>259</Air_Pressure>
-    <Time_Updated>259</Time_Updated>
+    <StationId>280640</StationId>
+    <Country>Russia</Country>
+    <Region>Leusi</Region>
+    <Air_Pressure>1034.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>260</StationId>
-    <Country>260</Country>
-    <Air_Pressure>260</Air_Pressure>
-    <Time_Updated>260</Time_Updated>
+    <StationId>280660</StationId>
+    <Country>Russia</Country>
+    <Region>Kondinskoje</Region>
+    <Air_Pressure>1057.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>261</StationId>
-    <Country>261</Country>
-    <Air_Pressure>261</Air_Pressure>
-    <Time_Updated>261</Time_Updated>
+    <StationId>280760</StationId>
+    <Country>Russia</Country>
+    <Region>Demjanskoe</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>262</StationId>
-    <Country>262</Country>
-    <Air_Pressure>262</Air_Pressure>
-    <Time_Updated>262</Time_Updated>
+    <StationId>280970</StationId>
+    <Country>Russia</Country>
+    <Region>Usanovy</Region>
+    <Air_Pressure>1045.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>263</StationId>
-    <Country>263</Country>
-    <Air_Pressure>263</Air_Pressure>
-    <Time_Updated>263</Time_Updated>
+    <StationId>281160</StationId>
+    <Country>Russia</Country>
+    <Region>Kudymkar</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>264</StationId>
-    <Country>264</Country>
-    <Air_Pressure>264</Air_Pressure>
-    <Time_Updated>264</Time_Updated>
+    <StationId>281310</StationId>
+    <Country>Russia</Country>
+    <Region>Kizel</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>265</StationId>
-    <Country>265</Country>
-    <Air_Pressure>265</Air_Pressure>
-    <Time_Updated>265</Time_Updated>
+    <StationId>281440</StationId>
+    <Country>Russia</Country>
+    <Region>Verhotur`E</Region>
+    <Air_Pressure>1027.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>266</StationId>
-    <Country>266</Country>
-    <Air_Pressure>266</Air_Pressure>
-    <Time_Updated>266</Time_Updated>
+    <StationId>282140</StationId>
+    <Country>Russia</Country>
+    <Region>Glazov</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>267</StationId>
-    <Country>267</Country>
-    <Air_Pressure>267</Air_Pressure>
-    <Time_Updated>267</Time_Updated>
+    <StationId>282160</StationId>
+    <Country>Russia</Country>
+    <Region>Verescagino</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>268</StationId>
-    <Country>268</Country>
-    <Air_Pressure>268</Air_Pressure>
-    <Time_Updated>268</Time_Updated>
+    <StationId>282240</StationId>
+    <Country>Russia</Country>
+    <Region>Perm</Region>
+    <Air_Pressure>1024.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>269</StationId>
-    <Country>269</Country>
-    <Air_Pressure>269</Air_Pressure>
-    <Time_Updated>269</Time_Updated>
+    <StationId>282250</StationId>
+    <Country>Russia</Country>
+    <Region>Perm</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>270</StationId>
-    <Country>270</Country>
-    <Air_Pressure>270</Air_Pressure>
-    <Time_Updated>270</Time_Updated>
+    <StationId>282400</StationId>
+    <Country>Russia</Country>
+    <Region>Nizhnyj Tagil</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>271</StationId>
-    <Country>271</Country>
-    <Air_Pressure>271</Air_Pressure>
-    <Time_Updated>271</Time_Updated>
+    <StationId>282550</StationId>
+    <Country>Russia</Country>
+    <Region>Turinsk</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>272</StationId>
-    <Country>272</Country>
-    <Air_Pressure>272</Air_Pressure>
-    <Time_Updated>272</Time_Updated>
+    <StationId>282750</StationId>
+    <Country>Russia</Country>
+    <Region>Tobolsk</Region>
+    <Air_Pressure>1045.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>273</StationId>
-    <Country>273</Country>
-    <Air_Pressure>273</Air_Pressure>
-    <Time_Updated>273</Time_Updated>
+    <StationId>282780</StationId>
+    <Country>Russia</Country>
+    <Region>Vagay River</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>274</StationId>
-    <Country>274</Country>
-    <Air_Pressure>274</Air_Pressure>
-    <Time_Updated>274</Time_Updated>
+    <StationId>283190</StationId>
+    <Country>Russia</Country>
+    <Region>Nozovka</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>275</StationId>
-    <Country>275</Country>
-    <Air_Pressure>275</Air_Pressure>
-    <Time_Updated>275</Time_Updated>
+    <StationId>283210</StationId>
+    <Country>Russia</Country>
+    <Region>Ohansk</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>276</StationId>
-    <Country>276</Country>
-    <Air_Pressure>276</Air_Pressure>
-    <Time_Updated>276</Time_Updated>
+    <StationId>283340</StationId>
+    <Country>Russia</Country>
+    <Region>Samary</Region>
+    <Air_Pressure>1026.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>277</StationId>
-    <Country>277</Country>
-    <Air_Pressure>277</Air_Pressure>
-    <Time_Updated>277</Time_Updated>
+    <StationId>283660</StationId>
+    <Country>Russia</Country>
+    <Region>Jarkovo</Region>
+    <Air_Pressure>1037.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>278</StationId>
-    <Country>278</Country>
-    <Air_Pressure>278</Air_Pressure>
-    <Time_Updated>278</Time_Updated>
+    <StationId>283670</StationId>
+    <Country>Russia</Country>
+    <Region>Tjumen</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>279</StationId>
-    <Country>279</Country>
-    <Air_Pressure>279</Air_Pressure>
-    <Time_Updated>279</Time_Updated>
+    <StationId>283820</StationId>
+    <Country>Russia</Country>
+    <Region>Ust-Isim</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>280</StationId>
-    <Country>280</Country>
-    <Air_Pressure>280</Air_Pressure>
-    <Time_Updated>280</Time_Updated>
+    <StationId>283830</StationId>
+    <Country>Russia</Country>
+    <Region>Tevriz</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>281</StationId>
-    <Country>281</Country>
-    <Air_Pressure>281</Air_Pressure>
-    <Time_Updated>281</Time_Updated>
+    <StationId>284110</StationId>
+    <Country>Russia</Country>
+    <Region>Izhevsk</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>282</StationId>
-    <Country>282</Country>
-    <Air_Pressure>282</Air_Pressure>
-    <Time_Updated>282</Time_Updated>
+    <StationId>284190</StationId>
+    <Country>Russia</Country>
+    <Region>Janaul</Region>
+    <Air_Pressure>1023.8</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>283</StationId>
-    <Country>283</Country>
-    <Air_Pressure>283</Air_Pressure>
-    <Time_Updated>283</Time_Updated>
+    <StationId>284280</StationId>
+    <Country>Russia</Country>
+    <Region>Cernuska</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>284</StationId>
-    <Country>284</Country>
-    <Air_Pressure>284</Air_Pressure>
-    <Time_Updated>284</Time_Updated>
+    <StationId>284340</StationId>
+    <Country>Russia</Country>
+    <Region>Krasnoufimsk</Region>
+    <Air_Pressure>1033.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>285</StationId>
-    <Country>285</Country>
-    <Air_Pressure>285</Air_Pressure>
-    <Time_Updated>285</Time_Updated>
+    <StationId>284400</StationId>
+    <Country>Russia</Country>
+    <Region>Ekaterinburg</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>286</StationId>
-    <Country>286</Country>
-    <Air_Pressure>286</Air_Pressure>
-    <Time_Updated>286</Time_Updated>
+    <StationId>284510</StationId>
+    <Country>Russia</Country>
+    <Region>Kamyslov</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>287</StationId>
-    <Country>287</Country>
-    <Air_Pressure>287</Air_Pressure>
-    <Time_Updated>287</Time_Updated>
+    <StationId>284650</StationId>
+    <Country>Russia</Country>
+    <Region>Jalturovosk</Region>
+    <Air_Pressure>1056.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>288</StationId>
-    <Country>288</Country>
-    <Air_Pressure>288</Air_Pressure>
-    <Time_Updated>288</Time_Updated>
+    <StationId>284810</StationId>
+    <Country>Russia</Country>
+    <Region>Vikulovo</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>289</StationId>
-    <Country>289</Country>
-    <Air_Pressure>289</Air_Pressure>
-    <Time_Updated>289</Time_Updated>
+    <StationId>284910</StationId>
+    <Country>Russia</Country>
+    <Region>Bol`Sie-Uki</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>290</StationId>
-    <Country>290</Country>
-    <Air_Pressure>290</Air_Pressure>
-    <Time_Updated>290</Time_Updated>
+    <StationId>285060</StationId>
+    <Country>Russia</Country>
+    <Region>Elabuga</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>291</StationId>
-    <Country>291</Country>
-    <Air_Pressure>291</Air_Pressure>
-    <Time_Updated>291</Time_Updated>
+    <StationId>285220</StationId>
+    <Country>Russia</Country>
+    <Region>Askino</Region>
+    <Air_Pressure>998.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>292</StationId>
-    <Country>292</Country>
-    <Air_Pressure>292</Air_Pressure>
-    <Time_Updated>292</Time_Updated>
+    <StationId>285370</StationId>
+    <Country>Russia</Country>
+    <Region>Duvan</Region>
+    <Air_Pressure>988.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>293</StationId>
-    <Country>293</Country>
-    <Air_Pressure>293</Air_Pressure>
-    <Time_Updated>293</Time_Updated>
+    <StationId>285410</StationId>
+    <Country>Russia</Country>
+    <Region>Verhnij Ufalej</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>294</StationId>
-    <Country>294</Country>
-    <Air_Pressure>294</Air_Pressure>
-    <Time_Updated>294</Time_Updated>
+    <StationId>285520</StationId>
+    <Country>Russia</Country>
+    <Region>Sadrinsk</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>295</StationId>
-    <Country>295</Country>
-    <Air_Pressure>295</Air_Pressure>
-    <Time_Updated>295</Time_Updated>
+    <StationId>285730</StationId>
+    <Country>Russia</Country>
+    <Region>Isim</Region>
+    <Air_Pressure>1026.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>296</StationId>
-    <Country>296</Country>
-    <Air_Pressure>296</Air_Pressure>
-    <Time_Updated>296</Time_Updated>
+    <StationId>285860</StationId>
+    <Country>Russia</Country>
+    <Region>Tjukalinsk</Region>
+    <Air_Pressure>990.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>297</StationId>
-    <Country>297</Country>
-    <Air_Pressure>297</Air_Pressure>
-    <Time_Updated>297</Time_Updated>
+    <StationId>285880</StationId>
+    <Country>Russia</Country>
+    <Region>Nazyvoevsk</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>298</StationId>
-    <Country>298</Country>
-    <Air_Pressure>298</Air_Pressure>
-    <Time_Updated>298</Time_Updated>
+    <StationId>286150</StationId>
+    <Country>Russia</Country>
+    <Region>Bakaly</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>299</StationId>
-    <Country>299</Country>
-    <Air_Pressure>299</Air_Pressure>
-    <Time_Updated>299</Time_Updated>
+    <StationId>286210</StationId>
+    <Country>Russia</Country>
+    <Region>Birsk</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>300</StationId>
-    <Country>300</Country>
-    <Air_Pressure>300</Air_Pressure>
-    <Time_Updated>300</Time_Updated>
+    <StationId>286370</StationId>
+    <Country>Russia</Country>
+    <Region>Kropacevo</Region>
+    <Air_Pressure>978.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>301</StationId>
-    <Country>301</Country>
-    <Air_Pressure>301</Air_Pressure>
-    <Time_Updated>301</Time_Updated>
+    <StationId>286420</StationId>
+    <Country>Russia</Country>
+    <Region>Cheljabinsk-Balandi</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>302</StationId>
-    <Country>302</Country>
-    <Air_Pressure>302</Air_Pressure>
-    <Time_Updated>302</Time_Updated>
+    <StationId>286550</StationId>
+    <Country>Russia</Country>
+    <Region>Sumiha</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>303</StationId>
-    <Country>303</Country>
-    <Air_Pressure>303</Air_Pressure>
-    <Time_Updated>303</Time_Updated>
+    <StationId>286610</StationId>
+    <Country>Russia</Country>
+    <Region>Kurgan</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>304</StationId>
-    <Country>304</Country>
-    <Air_Pressure>304</Air_Pressure>
-    <Time_Updated>304</Time_Updated>
+    <StationId>286660</StationId>
+    <Country>Russia</Country>
+    <Region>Makusino</Region>
+    <Air_Pressure>1025.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>305</StationId>
-    <Country>305</Country>
-    <Air_Pressure>305</Air_Pressure>
-    <Time_Updated>305</Time_Updated>
+    <StationId>286880</StationId>
+    <Country>Russia</Country>
+    <Region>Isilkul</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>306</StationId>
-    <Country>306</Country>
-    <Air_Pressure>306</Air_Pressure>
-    <Time_Updated>306</Time_Updated>
+    <StationId>286980</StationId>
+    <Country>Russia</Country>
+    <Region>Omsk</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>307</StationId>
-    <Country>307</Country>
-    <Air_Pressure>307</Air_Pressure>
-    <Time_Updated>307</Time_Updated>
+    <StationId>287110</StationId>
+    <Country>Russia</Country>
+    <Region>Bugulma</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>308</StationId>
-    <Country>308</Country>
-    <Air_Pressure>308</Air_Pressure>
-    <Time_Updated>308</Time_Updated>
+    <StationId>287220</StationId>
+    <Country>Russia</Country>
+    <Region>Ufa</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>309</StationId>
-    <Country>309</Country>
-    <Air_Pressure>309</Air_Pressure>
-    <Time_Updated>309</Time_Updated>
+    <StationId>287480</StationId>
+    <Country>Russia</Country>
+    <Region>Troizk</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>310</StationId>
-    <Country>310</Country>
-    <Air_Pressure>310</Air_Pressure>
-    <Time_Updated>310</Time_Updated>
+    <StationId>287560</StationId>
+    <Country>Russia</Country>
+    <Region>Zverinogolovskaja</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>311</StationId>
-    <Country>311</Country>
-    <Air_Pressure>311</Air_Pressure>
-    <Time_Updated>311</Time_Updated>
+    <StationId>287860</StationId>
+    <Country>Russia</Country>
+    <Region>Poltavka</Region>
+    <Air_Pressure>1034.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>312</StationId>
-    <Country>312</Country>
-    <Air_Pressure>312</Air_Pressure>
-    <Time_Updated>312</Time_Updated>
+    <StationId>287910</StationId>
+    <Country>Russia</Country>
+    <Region>Serbakul</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>313</StationId>
-    <Country>313</Country>
-    <Air_Pressure>313</Air_Pressure>
-    <Time_Updated>313</Time_Updated>
+    <StationId>287970</StationId>
+    <Country>Russia</Country>
+    <Region>Odesskoe</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>314</StationId>
-    <Country>314</Country>
-    <Air_Pressure>314</Air_Pressure>
-    <Time_Updated>314</Time_Updated>
+    <StationId>288070</StationId>
+    <Country>Russia</Country>
+    <Region>Samara (Snysljaevka</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>315</StationId>
-    <Country>315</Country>
-    <Air_Pressure>315</Air_Pressure>
-    <Time_Updated>315</Time_Updated>
+    <StationId>288250</StationId>
+    <Country>Russia</Country>
+    <Region>Sterlitamak</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>316</StationId>
-    <Country>316</Country>
-    <Air_Pressure>316</Air_Pressure>
-    <Time_Updated>316</Time_Updated>
+    <StationId>288380</StationId>
+    <Country>Russia</Country>
+    <Region>Magnitogorsk</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>317</StationId>
-    <Country>317</Country>
-    <Air_Pressure>317</Air_Pressure>
-    <Time_Updated>317</Time_Updated>
+    <StationId>289000</StationId>
+    <Country>Russia</Country>
+    <Region>Samara</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>318</StationId>
-    <Country>318</Country>
-    <Air_Pressure>318</Air_Pressure>
-    <Time_Updated>318</Time_Updated>
+    <StationId>289090</StationId>
+    <Country>Russia</Country>
+    <Region>Buzuluk</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>319</StationId>
-    <Country>319</Country>
-    <Air_Pressure>319</Air_Pressure>
-    <Time_Updated>319</Time_Updated>
+    <StationId>289250</StationId>
+    <Country>Russia</Country>
+    <Region>Meleuz</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>320</StationId>
-    <Country>320</Country>
-    <Air_Pressure>320</Air_Pressure>
-    <Time_Updated>320</Time_Updated>
+    <StationId>330001</StationId>
+    <Country>Ukraine</Country>
+    <Region>Luhansk</Region>
+    <Air_Pressure>962.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>321</StationId>
-    <Country>321</Country>
-    <Air_Pressure>321</Air_Pressure>
-    <Time_Updated>321</Time_Updated>
+    <StationId>330002</StationId>
+    <Country>Ukraine</Country>
+    <Region>Donetsk</Region>
+    <Air_Pressure>978.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>322</StationId>
-    <Country>322</Country>
-    <Air_Pressure>322</Air_Pressure>
-    <Time_Updated>322</Time_Updated>
+    <StationId>330003</StationId>
+    <Country>Ukraine</Country>
+    <Region>Lozuvatka</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>323</StationId>
-    <Country>323</Country>
-    <Air_Pressure>323</Air_Pressure>
-    <Time_Updated>323</Time_Updated>
+    <StationId>330004</StationId>
+    <Country>Ukraine</Country>
+    <Region>Dnipropetrovsk</Region>
+    <Air_Pressure>1055.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>324</StationId>
-    <Country>324</Country>
-    <Air_Pressure>324</Air_Pressure>
-    <Time_Updated>324</Time_Updated>
+    <StationId>330080</StationId>
+    <Country>Belarus</Country>
+    <Region>Brest</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>325</StationId>
-    <Country>325</Country>
-    <Air_Pressure>325</Air_Pressure>
-    <Time_Updated>325</Time_Updated>
+    <StationId>330190</StationId>
+    <Country>Belarus</Country>
+    <Region>Pinsk</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>326</StationId>
-    <Country>326</Country>
-    <Air_Pressure>326</Air_Pressure>
-    <Time_Updated>326</Time_Updated>
+    <StationId>330270</StationId>
+    <Country>Belarus</Country>
+    <Region>Zhitckovichi</Region>
+    <Air_Pressure>1024.3</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>327</StationId>
-    <Country>327</Country>
-    <Air_Pressure>327</Air_Pressure>
-    <Time_Updated>327</Time_Updated>
+    <StationId>330360</StationId>
+    <Country>Belarus</Country>
+    <Region>Mozyr</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>328</StationId>
-    <Country>328</Country>
-    <Air_Pressure>328</Air_Pressure>
-    <Time_Updated>328</Time_Updated>
+    <StationId>330410</StationId>
+    <Country>Belarus</Country>
+    <Region>Gomel</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>329</StationId>
-    <Country>329</Country>
-    <Air_Pressure>329</Air_Pressure>
-    <Time_Updated>329</Time_Updated>
+    <StationId>330490</StationId>
+    <Country>Ukraine</Country>
+    <Region>Semenovka</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>330</StationId>
-    <Country>330</Country>
-    <Air_Pressure>330</Air_Pressure>
-    <Time_Updated>330</Time_Updated>
+    <StationId>330880</StationId>
+    <Country>Ukraine</Country>
+    <Region>Sarny</Region>
+    <Air_Pressure>1002.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>331</StationId>
-    <Country>331</Country>
-    <Air_Pressure>331</Air_Pressure>
-    <Time_Updated>331</Time_Updated>
+    <StationId>331350</StationId>
+    <Country>Ukraine</Country>
+    <Region>Chernihiv</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>332</StationId>
-    <Country>332</Country>
-    <Air_Pressure>332</Air_Pressure>
-    <Time_Updated>332</Time_Updated>
+    <StationId>331770</StationId>
+    <Country>Ukraine</Country>
+    <Region>Volodymyr-Volynskyi</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>333</StationId>
-    <Country>333</Country>
-    <Air_Pressure>333</Air_Pressure>
-    <Time_Updated>333</Time_Updated>
+    <StationId>332460</StationId>
+    <Country>Ukraine</Country>
+    <Region>Nizhyn</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>334</StationId>
-    <Country>334</Country>
-    <Air_Pressure>334</Air_Pressure>
-    <Time_Updated>334</Time_Updated>
+    <StationId>332610</StationId>
+    <Country>Ukraine</Country>
+    <Region>Konotop</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>335</StationId>
-    <Country>335</Country>
-    <Air_Pressure>335</Air_Pressure>
-    <Time_Updated>335</Time_Updated>
+    <StationId>332750</StationId>
+    <Country>Ukraine</Country>
+    <Region>Sumy</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>336</StationId>
-    <Country>336</Country>
-    <Air_Pressure>336</Air_Pressure>
-    <Time_Updated>336</Time_Updated>
+    <StationId>333010</StationId>
+    <Country>Ukraine</Country>
+    <Region>Rivne</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>337</StationId>
-    <Country>337</Country>
-    <Air_Pressure>337</Air_Pressure>
-    <Time_Updated>337</Time_Updated>
+    <StationId>333011</StationId>
+    <Country>Ukraine</Country>
+    <Region>Uzhhorod</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>338</StationId>
-    <Country>338</Country>
-    <Air_Pressure>338</Air_Pressure>
-    <Time_Updated>338</Time_Updated>
+    <StationId>333012</StationId>
+    <Country>Ukraine</Country>
+    <Region>Mykolaiv</Region>
+    <Air_Pressure>1044.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>339</StationId>
-    <Country>339</Country>
-    <Air_Pressure>339</Air_Pressure>
-    <Time_Updated>339</Time_Updated>
+    <StationId>333170</StationId>
+    <Country>Ukraine</Country>
+    <Region>Shepetivka</Region>
+    <Air_Pressure>998.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>340</StationId>
-    <Country>340</Country>
-    <Air_Pressure>340</Air_Pressure>
-    <Time_Updated>340</Time_Updated>
+    <StationId>333250</StationId>
+    <Country>Ukraine</Country>
+    <Region>Zhytomyr</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>341</StationId>
-    <Country>341</Country>
-    <Air_Pressure>341</Air_Pressure>
-    <Time_Updated>341</Time_Updated>
+    <StationId>333450</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kyiv</Region>
+    <Air_Pressure>1006.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>342</StationId>
-    <Country>342</Country>
-    <Air_Pressure>342</Air_Pressure>
-    <Time_Updated>342</Time_Updated>
+    <StationId>333451</StationId>
+    <Country>Ukraine</Country>
+    <Region>Hostomel</Region>
+    <Air_Pressure>1046.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>343</StationId>
-    <Country>343</Country>
-    <Air_Pressure>343</Air_Pressure>
-    <Time_Updated>343</Time_Updated>
+    <StationId>333460</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kiev/Borispol</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>344</StationId>
-    <Country>344</Country>
-    <Air_Pressure>344</Air_Pressure>
-    <Time_Updated>344</Time_Updated>
+    <StationId>333470</StationId>
+    <Country>Ukraine</Country>
+    <Region>Boryspil</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>345</StationId>
-    <Country>345</Country>
-    <Air_Pressure>345</Air_Pressure>
-    <Time_Updated>345</Time_Updated>
+    <StationId>333560</StationId>
+    <Country>Ukraine</Country>
+    <Region>Yahotyn</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>346</StationId>
-    <Country>346</Country>
-    <Air_Pressure>346</Air_Pressure>
-    <Time_Updated>346</Time_Updated>
+    <StationId>333770</StationId>
+    <Country>Ukraine</Country>
+    <Region>Lubny</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>347</StationId>
-    <Country>347</Country>
-    <Air_Pressure>347</Air_Pressure>
-    <Time_Updated>347</Time_Updated>
+    <StationId>333930</StationId>
+    <Country>Ukraine</Country>
+    <Region>Lviv</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>348</StationId>
-    <Country>348</Country>
-    <Air_Pressure>348</Air_Pressure>
-    <Time_Updated>348</Time_Updated>
+    <StationId>333931</StationId>
+    <Country>Ukraine</Country>
+    <Region>Chernivtsi</Region>
+    <Air_Pressure>951.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>349</StationId>
-    <Country>349</Country>
-    <Air_Pressure>349</Air_Pressure>
-    <Time_Updated>349</Time_Updated>
+    <StationId>334150</StationId>
+    <Country>Ukraine</Country>
+    <Region>Ternopil</Region>
+    <Air_Pressure>995.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>350</StationId>
-    <Country>350</Country>
-    <Air_Pressure>350</Air_Pressure>
-    <Time_Updated>350</Time_Updated>
+    <StationId>334290</StationId>
+    <Country>Ukraine</Country>
+    <Region>Khmelnytskyi</Region>
+    <Air_Pressure>991.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>351</StationId>
-    <Country>351</Country>
-    <Air_Pressure>351</Air_Pressure>
-    <Time_Updated>351</Time_Updated>
+    <StationId>334660</StationId>
+    <Country>Ukraine</Country>
+    <Region>Myronivka</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>352</StationId>
-    <Country>352</Country>
-    <Air_Pressure>352</Air_Pressure>
-    <Time_Updated>352</Time_Updated>
+    <StationId>335060</StationId>
+    <Country>Ukraine</Country>
+    <Region>Poltava</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>353</StationId>
-    <Country>353</Country>
-    <Air_Pressure>353</Air_Pressure>
-    <Time_Updated>353</Time_Updated>
+    <StationId>335260</StationId>
+    <Country>Ukraine</Country>
+    <Region>Ivano-Frankivsk</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>354</StationId>
-    <Country>354</Country>
-    <Air_Pressure>354</Air_Pressure>
-    <Time_Updated>354</Time_Updated>
+    <StationId>335620</StationId>
+    <Country>Ukraine</Country>
+    <Region>Vinnytsia</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>355</StationId>
-    <Country>355</Country>
-    <Air_Pressure>355</Air_Pressure>
-    <Time_Updated>355</Time_Updated>
+    <StationId>335870</StationId>
+    <Country>Ukraine</Country>
+    <Region>Uman</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>356</StationId>
-    <Country>356</Country>
-    <Air_Pressure>356</Air_Pressure>
-    <Time_Updated>356</Time_Updated>
+    <StationId>336140</StationId>
+    <Country>Ukraine</Country>
+    <Region>Svitlovodsk</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>357</StationId>
-    <Country>357</Country>
-    <Air_Pressure>357</Air_Pressure>
-    <Time_Updated>357</Time_Updated>
+    <StationId>336150</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kremencug</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>358</StationId>
-    <Country>358</Country>
-    <Air_Pressure>358</Air_Pressure>
-    <Time_Updated>358</Time_Updated>
+    <StationId>336210</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kobeliaky</Region>
+    <Air_Pressure>1020.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>359</StationId>
-    <Country>359</Country>
-    <Air_Pressure>359</Air_Pressure>
-    <Time_Updated>359</Time_Updated>
+    <StationId>336310</StationId>
+    <Country>Ukraine</Country>
+    <Region>Uzhhorod</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>360</StationId>
-    <Country>360</Country>
-    <Air_Pressure>360</Air_Pressure>
-    <Time_Updated>360</Time_Updated>
+    <StationId>336630</StationId>
+    <Country>Ukraine</Country>
+    <Region>Mohyliv-Podilskyi</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>361</StationId>
-    <Country>361</Country>
-    <Air_Pressure>361</Air_Pressure>
-    <Time_Updated>361</Time_Updated>
+    <StationId>337110</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kirovohrad</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>362</StationId>
-    <Country>362</Country>
-    <Air_Pressure>362</Air_Pressure>
-    <Time_Updated>362</Time_Updated>
+    <StationId>337610</StationId>
+    <Country>Ukraine</Country>
+    <Region>Liubashivka</Region>
+    <Air_Pressure>1001.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>363</StationId>
-    <Country>363</Country>
-    <Air_Pressure>363</Air_Pressure>
-    <Time_Updated>363</Time_Updated>
+    <StationId>337770</StationId>
+    <Country>Ukraine</Country>
+    <Region>Voznesensk</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>364</StationId>
-    <Country>364</Country>
-    <Air_Pressure>364</Air_Pressure>
-    <Time_Updated>364</Time_Updated>
+    <StationId>337910</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kryvyi Rih</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>365</StationId>
-    <Country>365</Country>
-    <Air_Pressure>365</Air_Pressure>
-    <Time_Updated>365</Time_Updated>
+    <StationId>338370</StationId>
+    <Country>Ukraine</Country>
+    <Region>Odesa</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>366</StationId>
-    <Country>366</Country>
-    <Air_Pressure>366</Air_Pressure>
-    <Time_Updated>366</Time_Updated>
+    <StationId>338690</StationId>
+    <Country>Ukraine</Country>
+    <Region>Nova Kakhovka</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>367</StationId>
-    <Country>367</Country>
-    <Air_Pressure>367</Air_Pressure>
-    <Time_Updated>367</Time_Updated>
+    <StationId>338890</StationId>
+    <Country>Ukraine</Country>
+    <Region>Izmail</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>368</StationId>
-    <Country>368</Country>
-    <Air_Pressure>368</Air_Pressure>
-    <Time_Updated>368</Time_Updated>
+    <StationId>339020</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kherson</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>369</StationId>
-    <Country>369</Country>
-    <Air_Pressure>369</Air_Pressure>
-    <Time_Updated>369</Time_Updated>
+    <StationId>339100</StationId>
+    <Country>Ukraine</Country>
+    <Region>Henichesk</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>370</StationId>
-    <Country>370</Country>
-    <Air_Pressure>370</Air_Pressure>
-    <Time_Updated>370</Time_Updated>
+    <StationId>339240</StationId>
+    <Country>Ukraine</Country>
+    <Region>Chornomorske</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>371</StationId>
-    <Country>371</Country>
-    <Air_Pressure>371</Air_Pressure>
-    <Time_Updated>371</Time_Updated>
+    <StationId>339460</StationId>
+    <Country>Ukraine</Country>
+    <Region>Simferopol</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>372</StationId>
-    <Country>372</Country>
-    <Air_Pressure>372</Air_Pressure>
-    <Time_Updated>372</Time_Updated>
+    <StationId>339760</StationId>
+    <Country>Ukraine</Country>
+    <Region>Feodosiia</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>373</StationId>
-    <Country>373</Country>
-    <Air_Pressure>373</Air_Pressure>
-    <Time_Updated>373</Time_Updated>
+    <StationId>339900</StationId>
+    <Country>Ukraine</Country>
+    <Region>Yalta</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>374</StationId>
-    <Country>374</Country>
-    <Air_Pressure>374</Air_Pressure>
-    <Time_Updated>374</Time_Updated>
+    <StationId>340090</StationId>
+    <Country>Russia</Country>
+    <Region>Kursk</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>375</StationId>
-    <Country>375</Country>
-    <Air_Pressure>375</Air_Pressure>
-    <Time_Updated>375</Time_Updated>
+    <StationId>340470</StationId>
+    <Country>Russia</Country>
+    <Region>Zerdevka</Region>
+    <Air_Pressure>957.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>376</StationId>
-    <Country>376</Country>
-    <Air_Pressure>376</Air_Pressure>
-    <Time_Updated>376</Time_Updated>
+    <StationId>341160</StationId>
+    <Country>Russia</Country>
+    <Region>Staryj Oskol</Region>
+    <Air_Pressure>997.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>377</StationId>
-    <Country>377</Country>
-    <Air_Pressure>377</Air_Pressure>
-    <Time_Updated>377</Time_Updated>
+    <StationId>341220</StationId>
+    <Country>Russia</Country>
+    <Region>Voronez</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>378</StationId>
-    <Country>378</Country>
-    <Air_Pressure>378</Air_Pressure>
-    <Time_Updated>378</Time_Updated>
+    <StationId>341230</StationId>
+    <Country>Russia</Country>
+    <Region>Voronez</Region>
+    <Air_Pressure>1007.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>379</StationId>
-    <Country>379</Country>
-    <Air_Pressure>379</Air_Pressure>
-    <Time_Updated>379</Time_Updated>
+    <StationId>341520</StationId>
+    <Country>Russia</Country>
+    <Region>Balasov</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>380</StationId>
-    <Country>380</Country>
-    <Air_Pressure>380</Air_Pressure>
-    <Time_Updated>380</Time_Updated>
+    <StationId>341720</StationId>
+    <Country>Russia</Country>
+    <Region>Saratov</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>381</StationId>
-    <Country>381</Country>
-    <Air_Pressure>381</Air_Pressure>
-    <Time_Updated>381</Time_Updated>
+    <StationId>341860</StationId>
+    <Country>Russia</Country>
+    <Region>Ersov</Region>
+    <Air_Pressure>1009.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>382</StationId>
-    <Country>382</Country>
-    <Air_Pressure>382</Air_Pressure>
-    <Time_Updated>382</Time_Updated>
+    <StationId>342400</StationId>
+    <Country>Russia</Country>
+    <Region>Urjupinsk</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>383</StationId>
-    <Country>383</Country>
-    <Air_Pressure>383</Air_Pressure>
-    <Time_Updated>383</Time_Updated>
+    <StationId>342470</StationId>
+    <Country>Russia</Country>
+    <Region>Kalac</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>384</StationId>
-    <Country>384</Country>
-    <Air_Pressure>384</Air_Pressure>
-    <Time_Updated>384</Time_Updated>
+    <StationId>342620</StationId>
+    <Country>Russia</Country>
+    <Region>Rudnya</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>385</StationId>
-    <Country>385</Country>
-    <Air_Pressure>385</Air_Pressure>
-    <Time_Updated>385</Time_Updated>
+    <StationId>343000</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kharkiv</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>386</StationId>
-    <Country>386</Country>
-    <Air_Pressure>386</Air_Pressure>
-    <Time_Updated>386</Time_Updated>
+    <StationId>343020</StationId>
+    <Country>Ukraine</Country>
+    <Region>Bohodukhiv</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>387</StationId>
-    <Country>387</Country>
-    <Air_Pressure>387</Air_Pressure>
-    <Time_Updated>387</Time_Updated>
+    <StationId>343210</StationId>
+    <Country>Russia</Country>
+    <Region>Valujki</Region>
+    <Air_Pressure>1031.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>388</StationId>
-    <Country>388</Country>
-    <Air_Pressure>388</Air_Pressure>
-    <Time_Updated>388</Time_Updated>
+    <StationId>343360</StationId>
+    <Country>Russia</Country>
+    <Region>Bogucar</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>389</StationId>
-    <Country>389</Country>
-    <Air_Pressure>389</Air_Pressure>
-    <Time_Updated>389</Time_Updated>
+    <StationId>343570</StationId>
+    <Country>Russia</Country>
+    <Region>Serafimovic</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>390</StationId>
-    <Country>390</Country>
-    <Air_Pressure>390</Air_Pressure>
-    <Time_Updated>390</Time_Updated>
+    <StationId>343630</StationId>
+    <Country>Russia</Country>
+    <Region>Kamysin</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>391</StationId>
-    <Country>391</Country>
-    <Air_Pressure>391</Air_Pressure>
-    <Time_Updated>391</Time_Updated>
+    <StationId>343910</StationId>
+    <Country>Russia</Country>
+    <Region>Aleksandrov-Gaj</Region>
+    <Air_Pressure>1021.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>392</StationId>
-    <Country>392</Country>
-    <Air_Pressure>392</Air_Pressure>
-    <Time_Updated>392</Time_Updated>
+    <StationId>344150</StationId>
+    <Country>Ukraine</Country>
+    <Region>Izium</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>393</StationId>
-    <Country>393</Country>
-    <Air_Pressure>393</Air_Pressure>
-    <Time_Updated>393</Time_Updated>
+    <StationId>345040</StationId>
+    <Country>Ukraine</Country>
+    <Region>Dnipropetrovsk</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>394</StationId>
-    <Country>394</Country>
-    <Air_Pressure>394</Air_Pressure>
-    <Time_Updated>394</Time_Updated>
+    <StationId>345190</StationId>
+    <Country>Ukraine</Country>
+    <Region>Donetsk</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>395</StationId>
-    <Country>395</Country>
-    <Air_Pressure>395</Air_Pressure>
-    <Time_Updated>395</Time_Updated>
+    <StationId>345230</StationId>
+    <Country>Ukraine</Country>
+    <Region>Luhansk</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>396</StationId>
-    <Country>396</Country>
-    <Air_Pressure>396</Air_Pressure>
-    <Time_Updated>396</Time_Updated>
+    <StationId>345450</StationId>
+    <Country>Russia</Country>
+    <Region>Morozovsk</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>397</StationId>
-    <Country>397</Country>
-    <Air_Pressure>397</Air_Pressure>
-    <Time_Updated>397</Time_Updated>
+    <StationId>345600</StationId>
+    <Country>Russia</Country>
+    <Region>Volgograd</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>398</StationId>
-    <Country>398</Country>
-    <Air_Pressure>398</Air_Pressure>
-    <Time_Updated>398</Time_Updated>
+    <StationId>345790</StationId>
+    <Country>Russia</Country>
+    <Region>Verhnij Baskuncak</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>399</StationId>
-    <Country>399</Country>
-    <Air_Pressure>399</Air_Pressure>
-    <Time_Updated>399</Time_Updated>
+    <StationId>346010</StationId>
+    <Country>Ukraine</Country>
+    <Region>Zaporizhzhia</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>400</StationId>
-    <Country>400</Country>
-    <Air_Pressure>400</Air_Pressure>
-    <Time_Updated>400</Time_Updated>
+    <StationId>346070</StationId>
+    <Country>Ukraine</Country>
+    <Region>Pryshyb</Region>
+    <Air_Pressure>1023.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>401</StationId>
-    <Country>401</Country>
-    <Air_Pressure>401</Air_Pressure>
-    <Time_Updated>401</Time_Updated>
+    <StationId>346090</StationId>
+    <Country>Ukraine</Country>
+    <Region>Kyrylivka</Region>
+    <Air_Pressure>1060.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>402</StationId>
-    <Country>402</Country>
-    <Air_Pressure>402</Air_Pressure>
-    <Time_Updated>402</Time_Updated>
+    <StationId>346550</StationId>
+    <Country>Russia</Country>
+    <Region>Kotel`Nikovo</Region>
+    <Air_Pressure>1024.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>403</StationId>
-    <Country>403</Country>
-    <Air_Pressure>403</Air_Pressure>
-    <Time_Updated>403</Time_Updated>
+    <StationId>347120</StationId>
+    <Country>Ukraine</Country>
+    <Region>Mariupol</Region>
+    <Air_Pressure>1010.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>404</StationId>
-    <Country>404</Country>
-    <Air_Pressure>404</Air_Pressure>
-    <Time_Updated>404</Time_Updated>
+    <StationId>347170</StationId>
+    <Country>Ukraine</Country>
+    <Region>Berdyansk</Region>
+    <Air_Pressure>983.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>405</StationId>
-    <Country>405</Country>
-    <Air_Pressure>405</Air_Pressure>
-    <Time_Updated>405</Time_Updated>
+    <StationId>347300</StationId>
+    <Country>Russia</Country>
+    <Region>Rostov-Na-Donu</Region>
+    <Air_Pressure>1043.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>406</StationId>
-    <Country>406</Country>
-    <Air_Pressure>406</Air_Pressure>
-    <Time_Updated>406</Time_Updated>
+    <StationId>347310</StationId>
+    <Country>Russia</Country>
+    <Region>Rostov-Na-Donu</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>407</StationId>
-    <Country>407</Country>
-    <Air_Pressure>407</Air_Pressure>
-    <Time_Updated>407</Time_Updated>
+    <StationId>347470</StationId>
+    <Country>Russia</Country>
+    <Region>Celina</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>408</StationId>
-    <Country>408</Country>
-    <Air_Pressure>408</Air_Pressure>
-    <Time_Updated>408</Time_Updated>
+    <StationId>347590</StationId>
+    <Country>Russia</Country>
+    <Region>Remontnoe</Region>
+    <Air_Pressure>1018.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>409</StationId>
-    <Country>409</Country>
-    <Air_Pressure>409</Air_Pressure>
-    <Time_Updated>409</Time_Updated>
+    <StationId>348240</StationId>
+    <Country>Russia</Country>
+    <Region>Primorsko-Ahtarsk</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>410</StationId>
-    <Country>410</Country>
-    <Air_Pressure>410</Air_Pressure>
-    <Time_Updated>410</Time_Updated>
+    <StationId>348380</StationId>
+    <Country>Russia</Country>
+    <Region>Tihoreck</Region>
+    <Air_Pressure>1011.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>411</StationId>
-    <Country>411</Country>
-    <Air_Pressure>411</Air_Pressure>
-    <Time_Updated>411</Time_Updated>
+    <StationId>348580</StationId>
+    <Country>Russia</Country>
+    <Region>Divnoe</Region>
+    <Air_Pressure>1022.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>412</StationId>
-    <Country>412</Country>
-    <Air_Pressure>412</Air_Pressure>
-    <Time_Updated>412</Time_Updated>
+    <StationId>348610</StationId>
+    <Country>Russia</Country>
+    <Region>Elista</Region>
+    <Air_Pressure>1014.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>413</StationId>
-    <Country>413</Country>
-    <Air_Pressure>413</Air_Pressure>
-    <Time_Updated>413</Time_Updated>
+    <StationId>348660</StationId>
+    <Country>Russia</Country>
+    <Region>Jaskul</Region>
+    <Air_Pressure>1025.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>414</StationId>
-    <Country>414</Country>
-    <Air_Pressure>414</Air_Pressure>
-    <Time_Updated>414</Time_Updated>
+    <StationId>348800</StationId>
+    <Country>Russia</Country>
+    <Region>Astrahan</Region>
+    <Air_Pressure>1027.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>415</StationId>
-    <Country>415</Country>
-    <Air_Pressure>415</Air_Pressure>
-    <Time_Updated>415</Time_Updated>
+    <StationId>349290</StationId>
+    <Country>Russia</Country>
+    <Region>Krasnodar</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>416</StationId>
-    <Country>416</Country>
-    <Air_Pressure>416</Air_Pressure>
-    <Time_Updated>416</Time_Updated>
+    <StationId>349490</StationId>
+    <Country>Russia</Country>
+    <Region>Stavropol</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>417</StationId>
-    <Country>417</Country>
-    <Air_Pressure>417</Air_Pressure>
-    <Time_Updated>417</Time_Updated>
+    <StationId>349540</StationId>
+    <Country>Russia</Country>
+    <Region>Svetlograd</Region>
+    <Air_Pressure>1000.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>418</StationId>
-    <Country>418</Country>
-    <Air_Pressure>418</Air_Pressure>
-    <Time_Updated>418</Time_Updated>
+    <StationId>350260</StationId>
+    <Country>Russia</Country>
+    <Region>Zilair</Region>
+    <Air_Pressure>946.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>419</StationId>
-    <Country>419</Country>
-    <Air_Pressure>419</Air_Pressure>
-    <Time_Updated>419</Time_Updated>
+    <StationId>350370</StationId>
+    <Country>Russia</Country>
+    <Region>Akjar</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>420</StationId>
-    <Country>420</Country>
-    <Air_Pressure>420</Air_Pressure>
-    <Time_Updated>420</Time_Updated>
+    <StationId>351210</StationId>
+    <Country>Russia</Country>
+    <Region>Orenburg</Region>
+    <Air_Pressure>1019.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>421</StationId>
-    <Country>421</Country>
-    <Air_Pressure>421</Air_Pressure>
-    <Time_Updated>421</Time_Updated>
+    <StationId>353942</StationId>
+    <Country>Russia</Country>
+    <Region>Astrakhan</Region>
+    <Air_Pressure>983.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>422</StationId>
-    <Country>422</Country>
-    <Air_Pressure>422</Air_Pressure>
-    <Time_Updated>422</Time_Updated>
+    <StationId>370008</StationId>
+    <Country>Russia</Country>
+    <Region>Domodedovo</Region>
+    <Air_Pressure>1005.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>423</StationId>
-    <Country>423</Country>
-    <Air_Pressure>423</Air_Pressure>
-    <Time_Updated>423</Time_Updated>
+    <StationId>370010</StationId>
+    <Country>Russia</Country>
+    <Region>Anapa</Region>
+    <Air_Pressure>991.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>424</StationId>
-    <Country>424</Country>
-    <Air_Pressure>424</Air_Pressure>
-    <Time_Updated>424</Time_Updated>
+    <StationId>370180</StationId>
+    <Country>Russia</Country>
+    <Region>Tuapse</Region>
+    <Air_Pressure>1013.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>425</StationId>
-    <Country>425</Country>
-    <Air_Pressure>425</Air_Pressure>
-    <Time_Updated>425</Time_Updated>
+    <StationId>370310</StationId>
+    <Country>Russia</Country>
+    <Region>Armavir</Region>
+    <Air_Pressure>1008.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>426</StationId>
-    <Country>426</Country>
-    <Air_Pressure>426</Air_Pressure>
-    <Time_Updated>426</Time_Updated>
+    <StationId>370540</StationId>
+    <Country>Russia</Country>
+    <Region>Mineralnye Vody</Region>
+    <Air_Pressure>1002.6</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>427</StationId>
-    <Country>427</Country>
-    <Air_Pressure>427</Air_Pressure>
-    <Time_Updated>427</Time_Updated>
+    <StationId>370610</StationId>
+    <Country>Russia</Country>
+    <Region>Budennovsk</Region>
+    <Air_Pressure>1016.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>428</StationId>
-    <Country>428</Country>
-    <Air_Pressure>428</Air_Pressure>
-    <Time_Updated>428</Time_Updated>
+    <StationId>370850</StationId>
+    <Country>Russia</Country>
+    <Region>Kocubej</Region>
+    <Air_Pressure>1012.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>429</StationId>
-    <Country>429</Country>
-    <Air_Pressure>429</Air_Pressure>
-    <Time_Updated>429</Time_Updated>
+    <StationId>371450</StationId>
+    <Country>Russia</Country>
+    <Region>Mozdok</Region>
+    <Air_Pressure>994.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>430</StationId>
-    <Country>430</Country>
-    <Air_Pressure>430</Air_Pressure>
-    <Time_Updated>430</Time_Updated>
+    <StationId>371710</StationId>
+    <Country>Russia</Country>
+    <Region>Adler</Region>
+    <Air_Pressure>1015.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>431</StationId>
-    <Country>431</Country>
-    <Air_Pressure>431</Air_Pressure>
-    <Time_Updated>431</Time_Updated>
+    <StationId>372120</StationId>
+    <Country>Russia</Country>
+    <Region>Nalcik</Region>
+    <Air_Pressure>985.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>432</StationId>
-    <Country>432</Country>
-    <Air_Pressure>432</Air_Pressure>
-    <Time_Updated>432</Time_Updated>
+    <StationId>372280</StationId>
+    <Country>Russia</Country>
+    <Region>Wladikavkaz</Region>
+    <Air_Pressure>977.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>433</StationId>
-    <Country>433</Country>
-    <Air_Pressure>433</Air_Pressure>
-    <Time_Updated>433</Time_Updated>
+    <StationId>372350</StationId>
+    <Country>Russia</Country>
+    <Region>Groznyj</Region>
+    <Air_Pressure>1004.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>434</StationId>
-    <Country>434</Country>
-    <Air_Pressure>434</Air_Pressure>
-    <Time_Updated>434</Time_Updated>
+    <StationId>374720</StationId>
+    <Country>Russia</Country>
+    <Region>Mahackala</Region>
+    <Air_Pressure>1017.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>435</StationId>
-    <Country>435</Country>
-    <Air_Pressure>435</Air_Pressure>
-    <Time_Updated>435</Time_Updated>
+    <StationId>377351</StationId>
+    <Country>Russia</Country>
+    <Region>Maykop</Region>
+    <Air_Pressure>1028.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>436</StationId>
-    <Country>436</Country>
-    <Air_Pressure>436</Air_Pressure>
-    <Time_Updated>436</Time_Updated>
+    <StationId>377352</StationId>
+    <Country>Russia</Country>
+    <Region>Uytash</Region>
+    <Air_Pressure>1003.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
   <Weatherdata>
-    <StationId>437</StationId>
-    <Country>437</Country>
-    <Air_Pressure>437</Air_Pressure>
-    <Time_Updated>437</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>438</StationId>
-    <Country>438</Country>
-    <Air_Pressure>438</Air_Pressure>
-    <Time_Updated>438</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>439</StationId>
-    <Country>439</Country>
-    <Air_Pressure>439</Air_Pressure>
-    <Time_Updated>439</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>440</StationId>
-    <Country>440</Country>
-    <Air_Pressure>440</Air_Pressure>
-    <Time_Updated>440</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>441</StationId>
-    <Country>441</Country>
-    <Air_Pressure>441</Air_Pressure>
-    <Time_Updated>441</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>442</StationId>
-    <Country>442</Country>
-    <Air_Pressure>442</Air_Pressure>
-    <Time_Updated>442</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>443</StationId>
-    <Country>443</Country>
-    <Air_Pressure>443</Air_Pressure>
-    <Time_Updated>443</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>444</StationId>
-    <Country>444</Country>
-    <Air_Pressure>444</Air_Pressure>
-    <Time_Updated>444</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>445</StationId>
-    <Country>445</Country>
-    <Air_Pressure>445</Air_Pressure>
-    <Time_Updated>445</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>446</StationId>
-    <Country>446</Country>
-    <Air_Pressure>446</Air_Pressure>
-    <Time_Updated>446</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>447</StationId>
-    <Country>447</Country>
-    <Air_Pressure>447</Air_Pressure>
-    <Time_Updated>447</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>448</StationId>
-    <Country>448</Country>
-    <Air_Pressure>448</Air_Pressure>
-    <Time_Updated>448</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>449</StationId>
-    <Country>449</Country>
-    <Air_Pressure>449</Air_Pressure>
-    <Time_Updated>449</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>450</StationId>
-    <Country>450</Country>
-    <Air_Pressure>450</Air_Pressure>
-    <Time_Updated>450</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>451</StationId>
-    <Country>451</Country>
-    <Air_Pressure>451</Air_Pressure>
-    <Time_Updated>451</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>452</StationId>
-    <Country>452</Country>
-    <Air_Pressure>452</Air_Pressure>
-    <Time_Updated>452</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>453</StationId>
-    <Country>453</Country>
-    <Air_Pressure>453</Air_Pressure>
-    <Time_Updated>453</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>454</StationId>
-    <Country>454</Country>
-    <Air_Pressure>454</Air_Pressure>
-    <Time_Updated>454</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>455</StationId>
-    <Country>455</Country>
-    <Air_Pressure>455</Air_Pressure>
-    <Time_Updated>455</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>456</StationId>
-    <Country>456</Country>
-    <Air_Pressure>456</Air_Pressure>
-    <Time_Updated>456</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>457</StationId>
-    <Country>457</Country>
-    <Air_Pressure>457</Air_Pressure>
-    <Time_Updated>457</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>458</StationId>
-    <Country>458</Country>
-    <Air_Pressure>458</Air_Pressure>
-    <Time_Updated>458</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>459</StationId>
-    <Country>459</Country>
-    <Air_Pressure>459</Air_Pressure>
-    <Time_Updated>459</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>460</StationId>
-    <Country>460</Country>
-    <Air_Pressure>460</Air_Pressure>
-    <Time_Updated>460</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>461</StationId>
-    <Country>461</Country>
-    <Air_Pressure>461</Air_Pressure>
-    <Time_Updated>461</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>462</StationId>
-    <Country>462</Country>
-    <Air_Pressure>462</Air_Pressure>
-    <Time_Updated>462</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>463</StationId>
-    <Country>463</Country>
-    <Air_Pressure>463</Air_Pressure>
-    <Time_Updated>463</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>464</StationId>
-    <Country>464</Country>
-    <Air_Pressure>464</Air_Pressure>
-    <Time_Updated>464</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>465</StationId>
-    <Country>465</Country>
-    <Air_Pressure>465</Air_Pressure>
-    <Time_Updated>465</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>466</StationId>
-    <Country>466</Country>
-    <Air_Pressure>466</Air_Pressure>
-    <Time_Updated>466</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>467</StationId>
-    <Country>467</Country>
-    <Air_Pressure>467</Air_Pressure>
-    <Time_Updated>467</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>468</StationId>
-    <Country>468</Country>
-    <Air_Pressure>468</Air_Pressure>
-    <Time_Updated>468</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>469</StationId>
-    <Country>469</Country>
-    <Air_Pressure>469</Air_Pressure>
-    <Time_Updated>469</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>470</StationId>
-    <Country>470</Country>
-    <Air_Pressure>470</Air_Pressure>
-    <Time_Updated>470</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>471</StationId>
-    <Country>471</Country>
-    <Air_Pressure>471</Air_Pressure>
-    <Time_Updated>471</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>472</StationId>
-    <Country>472</Country>
-    <Air_Pressure>472</Air_Pressure>
-    <Time_Updated>472</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>473</StationId>
-    <Country>473</Country>
-    <Air_Pressure>473</Air_Pressure>
-    <Time_Updated>473</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>474</StationId>
-    <Country>474</Country>
-    <Air_Pressure>474</Air_Pressure>
-    <Time_Updated>474</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>475</StationId>
-    <Country>475</Country>
-    <Air_Pressure>475</Air_Pressure>
-    <Time_Updated>475</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>476</StationId>
-    <Country>476</Country>
-    <Air_Pressure>476</Air_Pressure>
-    <Time_Updated>476</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>477</StationId>
-    <Country>477</Country>
-    <Air_Pressure>477</Air_Pressure>
-    <Time_Updated>477</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>478</StationId>
-    <Country>478</Country>
-    <Air_Pressure>478</Air_Pressure>
-    <Time_Updated>478</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>479</StationId>
-    <Country>479</Country>
-    <Air_Pressure>479</Air_Pressure>
-    <Time_Updated>479</Time_Updated>
-  </Weatherdata>
-  <Weatherdata>
-    <StationId>480</StationId>
-    <Country>480</Country>
-    <Air_Pressure>480</Air_Pressure>
-    <Time_Updated>480</Time_Updated>
+    <StationId>378650</StationId>
+    <Country>Russia</Country>
+    <Region>Orsk</Region>
+    <Air_Pressure>999.0</Air_Pressure>
+    <Time_Updated></Time_Updated>
   </Weatherdata>
 </root>
