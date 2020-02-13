@@ -25,6 +25,7 @@ public class ParserThread implements Runnable {
     private int line_count = 1;
     private int[] array;
     private BufferedReader bin;
+    private int number_of_messages_parsed;
 
     /**
      * Constructor for ParserThread class.
@@ -44,7 +45,8 @@ public class ParserThread implements Runnable {
     }
 
     /**
-     * Run method that reads incoming inputStream and parses it. Parsed data is then passed through to the BufferManager.
+     * Run method that reads incoming inputStream and parses it. Parsed data is then passed through to the
+     * BufferManager.
      */
     public void run() {
         try {
@@ -55,16 +57,18 @@ public class ParserThread implements Runnable {
             String line;
             String result;
             int station_nr;
+            number_of_messages_parsed = 0;
             String temporary;
 
             // This continues until the socket stops sending data, if the socket stops the socket will be closed.
             while((line = bin.readLine()) != null){
-                if (bin.ready()){
+                //if (bin.ready()){
                     if (line.contains("</MEASUREMENT>")) {
                         buffer.addToQueue(array);
                         array = new int[7];
                         pointer = 0;
                         line_count = 1;
+                        number_of_messages_parsed++;
                     } else {
                         if (!line.contains("MEASUREMENT") && !line.contains("WEATHERDATA") && !line.contains("<?")) {
                             result = line.substring(line.indexOf(">") + 1, line.indexOf("</"));
@@ -85,13 +89,11 @@ public class ParserThread implements Runnable {
                             pointer++;
 
                             // Parse the temperature
-                            temporary = readNextLineAndGetResult(station_nr);
-                            parseTempAndDewPoint(temporary, station_nr, true);
+                            parseTempAndDewPoint(readNextLineAndGetResult(station_nr), station_nr, true);
                             line_count++;
 
                             // Parse the dew point
-                            temporary = readNextLineAndGetResult(station_nr);
-                            parseTempAndDewPoint(temporary, station_nr, false);
+                            parseTempAndDewPoint(readNextLineAndGetResult(station_nr), station_nr, false);
                             line_count++;
 
                             while(line_count != 9){
@@ -112,7 +114,7 @@ public class ParserThread implements Runnable {
                             array[pointer] = array[pointer] + (int) Double.parseDouble(readNextLineAndGetResult(station_nr));
                         }
                     }
-                }
+                //}
             }
             // Remove when socket is not connected
             socket.close();
@@ -147,11 +149,22 @@ public class ParserThread implements Runnable {
      * @param tempOrNot boolean to determine if data is temp or not.
      */
     private void parseTempAndDewPoint(String result, int station_nr, boolean tempOrNot){
+        // if the result is missing, get the corresponding extrapolation value.
         if (result.equals("")) {
             result = extrapolation.getEWMA(station_nr, line_count) + "";
         }
         double_val = Double.parseDouble(result);
+
+        // Declare and calculate the lower limits
+        double upper_limit = (extrapolation.getEWMA(station_nr, line_count) / 100) * 120;
+        double lower_limit = (extrapolation.getEWMA(station_nr, line_count) / 100) * 80;
+
+        // If the measurement is outside of the boundaries of the extrapolation then it is not a reliable measurement.
+        if(Math.abs(double_val) > Math.abs(upper_limit) && number_of_messages_parsed > 100 || Math.abs(double_val) < Math.abs(lower_limit) && number_of_messages_parsed > 100){
+            double_val = extrapolation.getEWMA(station_nr, line_count);
+        }
         extrapolation.calculateEWMA(station_nr, line_count, double_val);
+
         int temporary = (int) (double_val * 10);
         temporary += 700;
         if(tempOrNot) {
@@ -173,9 +186,10 @@ public class ParserThread implements Runnable {
             result = extrapolation.getEWMA(station_nr, line_count) + "";
         }
         double_val = Double.parseDouble(result);
-        extrapolation.calculateEWMA(station_nr, line_count, double_val);
 
         int temporary;
+        // If the line_count equals 7, then the value is rain fall. Meaning that the result has to multiplied by
+        // 100 in order to store the value in an integer datatype.
         if(line_count == 7){
             temporary = (int) (double_val * 100);
         }

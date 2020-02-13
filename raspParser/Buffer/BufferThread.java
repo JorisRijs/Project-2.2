@@ -3,14 +3,14 @@ package raspParser.Buffer;
 import raspParser.ConsoleColors;
 
 import java.io.*;
-import java.util.List;
+import java.util.Queue;
 
 /**
  * This is a runnable method that is used to convert data in to files.
  */
 public class BufferThread implements Runnable{
 
-    private List<int[]> queue;
+    private Queue<int[]> queue;
 
     // Some locations to write data files to
     private static String location = "/etc/DataStore/General/";
@@ -24,7 +24,7 @@ public class BufferThread implements Runnable{
      * Constructor for the BufferThread class.
      * @param queue the queue containing data to be written.
      */
-    public BufferThread(List<int[]> queue){
+    public BufferThread(Queue<int[]> queue){
         this.queue = queue;
     }
 
@@ -51,13 +51,14 @@ public class BufferThread implements Runnable{
      */
     private void writeFile(){
         try{
-            FileOutputStream outputFile = new FileOutputStream(location4 + counter + ".b");
+            FileOutputStream outputFile = new FileOutputStream(location3 + counter + ".b");
             BufferedOutputStream out = new BufferedOutputStream(outputFile);
             int size = queue.size();
             DataOutputStream os = new DataOutputStream(out);
             for(int i=1; i < size; i++){
-                int[] tmp = this.queue.remove(1);
-                if(i % (size / 10) == 0){
+                //int[] tmp = this.queue.remove(1);
+                int[] tmp = this.queue.poll();
+                if(i % (size / 10) == 0 && size > 100){
                     // Print writing progress
                     System.out.println(ConsoleColors.getTimeString() + ConsoleColors.ANSI_YELLOW + i / (size / 100) + "%" + ConsoleColors.ANSI_WHITE + " done writing " + size + " weather messages" + ConsoleColors.ANSI_RESET);
                 }

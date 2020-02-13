@@ -1,6 +1,4 @@
-
 package raspParser;
-
 import java.util.HashMap;
 import java.util.function.Function;
 
@@ -10,7 +8,7 @@ import java.util.function.Function;
 public class Extrapolation {
 
     private HashMap<Integer, double[]> weighted_average = new HashMap<>();
-    private Function<Integer, double[]> function = (k) -> new double[11];
+    private Function<Integer, double[]> function = (k) -> new double[12];
 
     /**
      * Method to calculate the Exponential Weighted Moving Average
@@ -33,12 +31,12 @@ public class Extrapolation {
      * @param index
      * @return double
      */
-    public double getEWMA(int station_nr, int index){
+    public synchronized double getEWMA(int station_nr, int index){
         weighted_average.computeIfAbsent(station_nr, function);
         if(weighted_average.get(station_nr) == null){
+            weighted_average.put(station_nr, new double[12]);
             this.weighted_average.get(station_nr)[index] = 0.0;
         }
         return weighted_average.get(station_nr)[index];
     }
-
 }

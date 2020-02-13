@@ -1,5 +1,4 @@
 package raspParser;
-
 import raspParser.Buffer.BufferManager;
 import raspParser.Parser.ParserManager;
 
@@ -13,7 +12,8 @@ import java.net.SocketTimeoutException;
  * incoming connections and gives them to a ParserThread.
  */
 public class ServerMain {
-    private static final int PORT = 2700;
+    // At this moment we set PORT 0 to let the ServerSocket automatically find a free port
+    private static final int PORT = 0;
 
     public static void main(String[] args) {
         int threadID = 0;
@@ -25,14 +25,16 @@ public class ServerMain {
             Extrapolation extrapolationOptimalization = new Extrapolation();
             ParserManager parserManager = new ParserManager();
             Thread workerManagerThread = new Thread(parserManager);
-            //workerManagerThread.start();
+            workerManagerThread.start();
 
+            System.err.println("Started on port : " + server.getLocalPort());
             System.err.println(ConsoleColors.getTimeString() + ConsoleColors.ANSI_BRIGHT_RED + "Start accepting threads...." + ConsoleColors.ANSI_RESET);
             while(true) {
                 try {
                     Socket socket = server.accept();
                     socket.setKeepAlive(true);
                     socket.setTcpNoDelay(true);
+                    socket.setReceiveBufferSize(65536);
 
                     parserManager.createWorker(socket, buffer, extrapolationOptimalization, threadID);
                     threadID++;

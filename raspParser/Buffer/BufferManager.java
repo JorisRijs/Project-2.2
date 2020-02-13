@@ -2,15 +2,15 @@ package raspParser.Buffer;
 
 import raspParser.Timer;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Queue;
+import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
  * Manager class for the buffer thread.
  */
 public class BufferManager {
 
-    private List<int[]> queue = new ArrayList<>();
+    private Queue<int[]> queue = new ConcurrentLinkedQueue<>();
 
     /**
      * Constructor for the BufferManager class.
