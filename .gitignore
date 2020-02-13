@@ -1,0 +1,6 @@
+# idea mappen worden aangemaakt door die jetbrain handel en zijn altijd een bron voor conflicten
+.idea/*
+
+.vscode/*
+Web\ Application/application.pyc
+Web\ Application/functions.pyc

@@ -10,8 +10,18 @@
         <div class="row">
           <div class="col-12">
             <h1>Home Page</h1>
-            <p>This is the Home Page of Moldova State University.</p>
+            <p>This is the Home Page of Moldova State University. On the interactive map below, you can view the locations of all the weather stations where data is acumulated from. </p>
           </div>
         </div>
       </div>
+      <div class="container-fluid">
+        <div id="chartdiv"></div>
+      </div>
+    </div>
+
+
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+    <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+    <script src="{{ url_for('static', filename='js/worldmap.js') }}"></script>
 {% endblock %}
