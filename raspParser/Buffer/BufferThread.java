@@ -51,7 +51,7 @@ public class BufferThread implements Runnable{
      */
     private void writeFile(){
         try{
-            FileOutputStream outputFile = new FileOutputStream(location3 + counter + ".b");
+            FileOutputStream outputFile = new FileOutputStream(location + counter + ".b");
             BufferedOutputStream out = new BufferedOutputStream(outputFile);
             int size = queue.size();
             DataOutputStream os = new DataOutputStream(out);
