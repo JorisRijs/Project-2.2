@@ -8,7 +8,7 @@
       <!-- Dew Point Chart-->
       <div class="card mb-3">
         <div class="card-header">
-          <i class="fa fa-area-chart"></i> Dew Point Graph (Realtime)</div>
+          <i class="fa fa-area-chart"></i> Humidity Graph (Realtime)</div>
         <div class="card-body">
           <script src ='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js'></script>
           <div><canvas id="dewpoint_graph" width="800" height="450"></canvas></div>
@@ -103,21 +103,24 @@
               var temperature = data['moldova' + counter][i].temp;
               var dewp = data['moldova' + counter][i].dewp;
               var station_nr = data['moldova' + counter][i].station_nr;
-
+	     
               if(station_nr == 337450){
                 data_linechart.shift();
                 data_linechart.push(calculateHumidity(temperature, dewp));
-              }
+              	linechart.update();
+	      }
               else if(station_nr == 338150){
                 data_linechart1.shift();
                 data_linechart1.push(calculateHumidity(temperature, dewp));
-              }
+              	linechart.update();
+	      }
               else{
                 data_linechart2.shift();
                 data_linechart2.push(calculateHumidity(temperature, dewp));
+		linechart.update();
               }
             }
-            linechart.update();
+            //linechart.update();
             }
           ));
         }
