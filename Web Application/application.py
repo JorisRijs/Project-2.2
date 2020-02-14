@@ -2,6 +2,7 @@ import os
 import re
 import datetime
 import json
+import random
 from tempfile import mkdtemp
 from threading import Timer
 from flask import Flask, redirect, render_template, request, session, flash, send_file, jsonify
@@ -28,8 +29,8 @@ app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
 
-# path = "/etc/DataStore/Website/"
-path = "files/"
+path = "/etc/DataStore/Website/"
+#path = "files/"
 
 
 # Initialize the necessary variables
@@ -121,10 +122,8 @@ def checkDirectoryAtCertainInterval():
     # List all files in the current directory, specified by the path variable
     filelist = os.listdir(path)
     if len(filelist) > 0:
-        print("here")
         moldova_data = {}
         for file in filelist:
-            print("file: ", file)
             filepath = os.path.join(path + file)
             size = os.path.getsize(filepath)
             with open(filepath) as f:
@@ -134,23 +133,24 @@ def checkDirectoryAtCertainInterval():
                         air_pressure_list = []
                         for line in f:
                             values = line.split("_")
-                            # Check whether the current station number of the current weather station is equal to any of the station numbers
-                            # of any of the station located in Moldova.
-                            if values[0] == '337450' or values[0] == '338150' or values[0] == '338830':
-                                # Convert the values and store them in python variables
-                                station = int(values[0])
-                                temp = values[1]
-                                dewp = values[2][:-1]
-                                # Create a fixed datastructure that can be easily used to convert python variables into javascript variables.
-                                moldova_data = {
-                                    'station_nr': station,
-                                    'temp': float(temp),
-                                    'dewp': float(dewp)
-                                }
-                                moldova_list.append(moldova_data)
-                            else:
-                                if ' \n' not in values and '\n' not in values:
-                                    air_pressure_list.append((values[0], values[1].replace('\n', '')))
+			    if values[0] != "" and line != ' ' and line != ' ' and '\r\n' not in values[0]:
+                                # Check whether the current station number of the current weather station is equal to any of the station numbers
+                            	# of any of the station located in Moldova.
+                           	if values[0] == '337450' or values[0] == '338150' or values[0] == '338830':
+                               		# Convert the values and store them in python variables
+                               		station = int(values[0])
+                               		temp = values[1]
+                               		dewp = values[2][:-1]
+                               		# Create a fixed datastructure that can be easily used to convert python variables into javascript variables.
+                               		moldova_data = {
+                                   	'station_nr': station,
+                                   	'temp': float(temp),
+                                   	'dewp': float(dewp)
+                               		}
+                               		moldova_list.append(moldova_data)
+                           	else:
+                                    if ' \n' not in values and '\n' not in values:
+                                        air_pressure_list.append((values[0], values[1].replace('\n', '')))
 
                         moldova_dict['moldova' + str(global_var % 1)] = moldova_list
 
@@ -159,7 +159,7 @@ def checkDirectoryAtCertainInterval():
                             if(station_data.get(station_nr) is not None):
                                 country = station_data.get(station_nr)[0]
                                 region = station_data.get(station_nr)[1]
-                                station_data.get(station_nr).clear()
+                                station_data[station_nr] = list()
                                 station_data.get(station_nr).append(country)
                                 station_data.get(station_nr).append(region)
                                 station_data.get(station_nr).append(float(values[1]))
@@ -167,18 +167,18 @@ def checkDirectoryAtCertainInterval():
                     else:
                         for line in f:
                             values = line.split("_")
-                            if ' \n' not in values and '\n' not in values:
-                                station = int(values[0])
-                                data = {
-                                    'station_nr': station,
-                                    'temp': float(values[1]),
-                                    'dewp': float(values[2][:-2])
-                                }
-                                moldova_list.append(data)
-                        moldova_dict['moldova' + str(global_var % 1)] = moldova_list
+			    if values[0] != ' ' and '\r\n' not in values[0]:
+                                if ' \n' not in values and '\n' not in values:
+                                    station = int(values[0])
+                                    data = {
+                                        'station_nr': station,
+                                        'temp': float(values[1]),
+                                        'dewp': float(values[2][:-2])
+                                    }
+                                    moldova_list.append(data)
+                            moldova_dict['moldova' + str(global_var % 1)] = moldova_list
             global_var += 1
             os.remove(f.name)
-            print(moldova_dict)
     if moldova_dict == {} and len(os.listdir(path)) == 0:
         moldova_dict['moldova' + str(0)] = [{'station_nr': 338150, 'temp': 0, 'dewp': 0},
                                             {'station_nr': 338830, 'temp': 0, 'dewp': 0}, {'station_nr': 337450, 'temp': 0, 'dewp': 0}]

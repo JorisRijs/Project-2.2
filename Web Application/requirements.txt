@@ -1,4 +1,3 @@
-astroid==2.3.3
 attrs==19.3.0
 Authlib==0.13
 autopep8==1.5
@@ -8,17 +7,12 @@ backports.shutil-which==3.5.2
 beautifulsoup4==4.8.2
 botocore==1.14.9
 bs4==0.0.1
-cairocffi==1.1.0
-CairoSVG==2.4.2
 certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
-check50==3.0.10
 Click==7.0
 colorama==0.4.1
-compare50==1.1.2
 cryptography==2.8
-cs50==5.0.3
 cssselect2==0.2.2
 cycler==0.10.0
 defusedxml==0.6.0
@@ -26,7 +20,6 @@ docutils==0.15.2
 EditorConfig==0.12.2
 Flask==1.1.1
 Flask-Session==0.3.1
-help50==3.0.0
 html5lib==1.0.1
 icdiff==1.9.1
 idna==2.8
@@ -40,7 +33,6 @@ jmespath==0.9.4
 jsbeautifier==1.10.3
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
-lib50==2.0.7
 lxml==4.5.0
 MarkupSafe==1.1.1
 matplotlib==3.1.3
@@ -69,7 +61,6 @@ python-dateutil==2.8.1
 python-magic==0.4.15
 pytz==2019.3
 PyYAML==5.2
-render50==3.1.3
 requests==2.22.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
@@ -81,8 +72,6 @@ sortedcontainers==2.1.0
 soupsieve==1.9.5
 SQLAlchemy==1.3.13
 sqlparse==0.3.0
-style50==2.7.4
-submit50==3.0.2
 termcolor==1.1.0
 tinycss2==1.0.2
 tqdm==4.42.1
